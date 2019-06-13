@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B1A06039-C898-4B79-B34E-7E61487B8BD4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 320,
+    "width": 1366,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F7C75B5C-77E3-4324-9DE3-9CC2727B009F"
+    },
+    {
+      "class": "group",
+      "id": "6E7D1E58-3194-40B5-97FD-7D85F2991A4F"
+    },
+    {
+      "class": "group",
+      "id": "5F6861D8-C61D-4723-AEAF-BEC9F471405B"
+    },
+    {
+      "class": "group",
+      "id": "F93B142B-DBBF-4F74-8983-38D9B031CD82"
+    }
+  ],
+  "name": "Brand Carousel",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 320,
+            "enabled": 1,
+            "modelID": "constraint_85db5fa6-9ee1-45eb-ba13-7c2027887319",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 1366
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_98eb2cab-6790-4fe5-9f46-1b4c12ab4e1f",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
