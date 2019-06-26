@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C8A4DA1B-1AFD-427D-A31F-C9DDDCB4DB9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 10.58823529411765,
+    "width": 12,
+    "x": 8,
+    "y": 4.99999999999996
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "EEC21791-1DBB-42F9-BE26-409DFB4DE7AD"
+    },
+    {
+      "class": "shapePath",
+      "id": "69C31AB0-A6DD-418F-936D-4C8F0554AB6D"
+    }
+  ],
+  "name": "Group 8",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 10.58823,
+            "enabled": 1,
+            "modelID": "constraint_0133de3f-88cc-4ea4-8041-57d10bd9d70f",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 12
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_a3c8b7c7-7ab0-4b02-9dc4-e3c01fc9859f",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
