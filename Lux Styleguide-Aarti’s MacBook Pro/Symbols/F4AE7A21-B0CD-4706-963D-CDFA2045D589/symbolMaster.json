@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 186,
+  "changeIdentifier": 198,
   "clippingMaskMode": 0,
   "do_objectID": "F4AE7A21-B0CD-4706-963D-CDFA2045D589",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -67,18 +67,18 @@
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 67.5,
+    "columnWidth": 75,
     "drawHorizontal": true,
     "drawHorizontalLines": false,
     "drawVertical": true,
-    "gutterHeight": 12,
-    "gutterWidth": 30,
-    "guttersOutside": true,
+    "gutterHeight": 4,
+    "gutterWidth": 20,
+    "guttersOutside": false,
     "horizontalOffset": 98,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 12,
-    "rowHeightMultiplication": 5,
-    "totalWidth": 1170
+    "rowHeightMultiplication": 1,
+    "totalWidth": 1120
   },
   "name": "Lookbook Left",
   "nameIsFixed": true,
@@ -96,17 +96,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "B88D02D1-261B-4D94-8276-58E419686827_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
       "overrideName": "BCC128B2-4FCF-478B-A0A7-6EE67F510239_image"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "AC73B9E8-40F2-4209-BC4F-78B8792FAEC2_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

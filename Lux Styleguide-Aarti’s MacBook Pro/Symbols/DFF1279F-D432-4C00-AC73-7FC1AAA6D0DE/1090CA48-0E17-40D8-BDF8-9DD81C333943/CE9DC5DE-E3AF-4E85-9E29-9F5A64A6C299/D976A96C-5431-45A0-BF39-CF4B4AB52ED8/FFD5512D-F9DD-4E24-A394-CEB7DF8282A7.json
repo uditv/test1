@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5764705882352941,
-            "green": 0.5686274509803921,
-            "red": 0.5686274509803921
+            "blue": 0.1803921568627451,
+            "green": 0.1921568627450981,
+            "red": 0.2
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Lato-Light",
+              "name": "Lato-Regular",
               "size": 14
             }
           },
@@ -38,14 +38,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5764705882352941,
-            "green": 0.5686274509803921,
-            "red": 0.5686274509803921
+            "blue": 0.1803921568627451,
+            "green": 0.1921568627450981,
+            "red": 0.2
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Lato-Light",
+              "name": "Lato-Regular",
               "size": 14
             }
           },
@@ -56,35 +56,8 @@
             "paragraphSpacing": 2
           }
         },
-        "length": 10,
+        "length": 15,
         "location": 5
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.3772456347942352,
-            "green": 0.3565257787704468,
-            "red": 0.3527307212352753
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Lato-Light",
-              "size": 14
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0,
-            "paragraphSpacing": 2
-          }
-        },
-        "length": 5,
-        "location": 15
       }
     ],
     "string": "₹7499 ( -30% ) ₹5593"
@@ -109,9 +82,9 @@
     "height": 17,
     "width": 136,
     "x": 264,
-    "y": 315
+    "y": 295
   },
-  "glyphBounds": "{{0, 3}, {135, 13}}",
+  "glyphBounds": "{{0, 3}, {135, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -137,14 +110,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5764705882352941,
-          "green": 0.5686274509803921,
-          "red": 0.5686274509803921
+          "blue": 0.1803921568627451,
+          "green": 0.1921568627450981,
+          "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Lato-Light",
+            "name": "Lato-Regular",
             "size": 14
           }
         },
@@ -161,5 +134,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }

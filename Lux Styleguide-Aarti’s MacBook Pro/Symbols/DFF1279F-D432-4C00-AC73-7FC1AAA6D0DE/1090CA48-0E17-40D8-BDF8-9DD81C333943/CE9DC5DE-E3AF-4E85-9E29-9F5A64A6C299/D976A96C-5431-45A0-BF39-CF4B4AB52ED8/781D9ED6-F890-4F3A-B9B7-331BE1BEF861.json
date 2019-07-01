@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1098039215686274,
-            "green": 0.09411764705882354,
-            "red": 0.09019607843137255
+            "blue": 0.1803921568627451,
+            "green": 0.1921568627450981,
+            "red": 0.2
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Lato-Medium",
+              "name": "Lato-Regular",
               "size": 14
             }
           },
@@ -64,7 +64,7 @@
     "height": 17,
     "width": 113,
     "x": 504,
-    "y": 262
+    "y": 254
   },
   "glyphBounds": "{{0, 3}, {113, 12}}",
   "hasClippingMask": false,
@@ -92,14 +92,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1098039215686274,
-          "green": 0.09411764705882354,
-          "red": 0.09019607843137255
+          "blue": 0.1803921568627451,
+          "green": 0.1921568627450981,
+          "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Lato-Medium",
+            "name": "Lato-Regular",
             "size": 14
           }
         },
@@ -116,5 +116,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }
