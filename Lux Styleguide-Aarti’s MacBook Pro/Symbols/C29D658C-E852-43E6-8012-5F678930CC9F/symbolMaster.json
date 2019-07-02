@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2640,
+  "changeIdentifier": 2648,
   "clippingMaskMode": 0,
   "do_objectID": "C29D658C-E852-43E6-8012-5F678930CC9F",
   "exportOptions": {
@@ -75,6 +75,11 @@
   "name": "ShopByCatText",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "10409D97-568E-41DF-B694-44B809CF5489_textStyle"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
