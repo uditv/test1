@@ -17,7 +17,7 @@
   "fixedRadius": 2,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
+    "constrainProportions": false,
     "do_objectID": "13B080C3-D6DE-4A28-8D42-DC3DE4E477FB",
     "height": 96,
     "width": 84,
@@ -127,21 +127,6 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "constraints": {
-          "aspectRatio": {
-            "constant": 97.14286,
-            "enabled": 1,
-            "modelID": "constraint_cab7a266-1bd9-41d1-aea9-2268288507a8",
-            "model_class": "ADModelConstraint",
-            "model_version": 0,
-            "multiplier": 85
-          },
-          "automatic": 1,
-          "modelID": "viewConstraints_e84a29b3-e2d0-41d2-a0cf-0810aedf9545",
-          "model_class": "ADModelViewConstraints",
-          "model_version": 0,
-          "scaleFactor": 1
-        }
       }
     }
   }

@@ -1,0 +1,75 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "690AA894-EAD0-4D70-A415-FCE235CBCDA3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "45EC8272-0450-4983-926C-5820ADC65C5B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2451737B-14C2-4474-82C1-414C9A4154D3",
+    "height": 412,
+    "width": 502.5968586387434,
+    "x": 2.842170943040401e-14,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/faf6d47a7bb1ce6e3dbb72df83413f58d617e0ab.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "JOPOLO02 (1)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "47F4EE4A-4A74-4864-BF02-72AD5F930F40",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 412,
+            "enabled": 1,
+            "modelID": "constraint_0c428225-336d-4fd7-a872-4e64e763424f",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 502.5969
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_80868df4-ca96-46ed-9897-a341cf389117",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
