@@ -1,0 +1,93 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "F967059D-55FA-44B8-B3A5-E9848CE90AA5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "40DFE8A8-34C3-48F4-A6A4-AD98903CA424",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "71F55393-45EA-4467-827A-C28A8E8A3FE9",
+    "height": 41.09677419354839,
+    "width": 113.088,
+    "x": 75.99999999999999,
+    "y": 111
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/3fc4f7e546e99a8db1642cefa79bb1f1d1819963.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "hugoboss copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "49E2CD8F-03A0-4F27-A93F-B9934ECE0B10",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 41.09678,
+            "enabled": 1,
+            "modelID": "constraint_90266c7b-b05e-474e-ab28-9fdb6bb8ba6e",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 113.088
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_5d293be5-3eaa-408f-ac01-de7b3ccaa8db",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

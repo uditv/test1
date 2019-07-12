@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1756483844,
-            "green": 0.1756483844,
-            "red": 0.1756483844
+            "blue": 0.09019607843137255,
+            "green": 0.1019607843137255,
+            "red": 0.1098039215686274
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Lato-Light",
-              "size": 14
+              "size": 12
             }
           },
           "MSAttributedStringTextTransformAttribute": 1,
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 17,
-    "width": 77,
-    "x": 24,
+    "height": 16,
+    "width": 66,
+    "x": 30,
     "y": 8
   },
-  "glyphBounds": "{{0, 3}, {77, 12}}",
+  "glyphBounds": "{{0, 3}, {66, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -83,15 +83,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1756483844,
-          "green": 0.1756483844,
-          "red": 0.1756483844
+          "blue": 0.09019607843137255,
+          "green": 0.1019607843137255,
+          "red": 0.1098039215686274
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Lato-Light",
-            "size": 14
+            "size": 12
           }
         },
         "MSAttributedStringTextTransformAttribute": 1,
@@ -107,5 +107,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }

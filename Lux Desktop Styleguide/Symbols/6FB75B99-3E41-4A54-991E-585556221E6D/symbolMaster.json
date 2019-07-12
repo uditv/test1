@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2679,
+  "changeIdentifier": 3170,
   "clippingMaskMode": 0,
   "do_objectID": "6FB75B99-3E41-4A54-991E-585556221E6D",
   "exportOptions": {
@@ -24,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 674,
+    "height": 676,
     "width": 1440,
     "x": 100,
-    "y": 1502
+    "y": 1498
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -54,7 +54,51 @@
   "layers": [
     {
       "class": "group",
-      "id": "E696BFC0-2338-431C-BB3A-139EE8FF0049"
+      "id": "DEFDB77D-F1E1-4827-93D9-C4D46DD35A37"
+    },
+    {
+      "class": "text",
+      "id": "588F160E-E4C3-4F56-A313-E42871F7245B"
+    },
+    {
+      "class": "text",
+      "id": "228C1CB3-D435-4978-8889-BD8A848CEF3D"
+    },
+    {
+      "class": "text",
+      "id": "82212ADC-A96A-4172-9451-8DC387C52458"
+    },
+    {
+      "class": "text",
+      "id": "120F1940-FCE7-44BB-A741-C43307198717"
+    },
+    {
+      "class": "group",
+      "id": "CB0438A3-4CE1-4ECD-AA1B-FBAC7E844764"
+    },
+    {
+      "class": "group",
+      "id": "EE3F7C9E-1408-4C0C-9EE2-638C6AB23668"
+    },
+    {
+      "class": "text",
+      "id": "F74200BB-36BD-4C9E-B54F-BC478AE3A821"
+    },
+    {
+      "class": "text",
+      "id": "6E21DE65-1848-4F1A-9F5A-FCE34F8E58F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B1B308D-C03D-4CA3-944E-299DB02910EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "82F570AA-F951-44AF-90E5-096F55FFD2FF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "04EA73E3-926F-4426-8403-38672180C54E"
     },
     {
       "class": "text",
@@ -71,18 +115,18 @@
     "gutterWidth": 20,
     "guttersOutside": false,
     "horizontalOffset": 160,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 1,
     "totalWidth": 1120
   },
-  "name": "Luxe Editorial Copy",
-  "nameIsFixed": false,
+  "name": "o-widget/luxeeditorial",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "4B4BD7CC-3C11-4C5F-8AA1-42BB7BC1D35C_stringValue"
+      "overrideName": "AA58BC1C-98DB-4F49-8646-12BED8FD9C46_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 4820,
+  "changeIdentifier": 4867,
   "clippingMaskMode": 0,
   "do_objectID": "67DB5842-3C72-4C54-BD65-C1927E2A9606",
   "exportOptions": {
@@ -27,13 +27,13 @@
     "height": 500,
     "width": 1440,
     "x": 100,
-    "y": 3394
+    "y": 3374
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -72,8 +72,8 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 1120
   },
-  "name": "SimpleBannerComponent",
-  "nameIsFixed": false,
+  "name": "o-banner/simplebanner",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

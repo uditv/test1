@@ -17,8 +17,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 265,
-    "width": 265,
+    "height": 264,
+    "width": 264,
     "x": 0,
     "y": 0
   },
@@ -109,7 +109,12 @@
           "green": 0.847,
           "red": 0.847
         },
-        "fillType": 0,
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/4ace07aa5d5a9d6055cf98735cd9f515ca8b0585.pdf",
+          "_ref_class": "MSImageData"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -126,12 +131,12 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 261,
+            "constant": 264,
             "enabled": 1,
             "modelID": "constraint_fd37eb8c-b994-4832-8754-4a61b474e82e",
             "model_class": "ADModelConstraint",
             "model_version": 0,
-            "multiplier": 261
+            "multiplier": 264
           },
           "automatic": 1,
           "modelID": "viewConstraints_0e15a12f-4760-4b47-844e-f416c42da212",

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2994,
+  "changeIdentifier": 3032,
   "clippingMaskMode": 0,
   "do_objectID": "70F24924-0AD6-4847-BA53-8CFA7F448834",
   "exportOptions": {
@@ -24,16 +24,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 480,
+    "height": 520,
     "width": 1440,
     "x": 100,
-    "y": 4568
+    "y": 4542
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -116,8 +116,8 @@
     "rowHeightMultiplication": 3,
     "totalWidth": 1120
   },
-  "name": "HeroBannerCarousel",
-  "nameIsFixed": false,
+  "name": "o-banner/herobannercarousel",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

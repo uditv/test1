@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 249,
+  "changeIdentifier": 284,
   "clippingMaskMode": 0,
   "do_objectID": "05A1DA1C-C0AE-45E4-B679-695C84F98B6E",
   "exportOptions": {
@@ -24,16 +24,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 108,
+    "height": 128,
     "width": 1440,
     "x": 100,
-    "y": 780
+    "y": 760
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -72,8 +72,8 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 1120
   },
-  "name": "TImer",
-  "nameIsFixed": false,
+  "name": "o-widget/timer",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",

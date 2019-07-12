@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 265,
+    "height": 264,
     "width": 265,
     "x": 0,
     "y": 0
@@ -35,10 +35,6 @@
     {
       "class": "rectangle",
       "id": "F07A6E96-FAD7-450C-B926-96DCB73FBE01"
-    },
-    {
-      "class": "bitmap",
-      "id": "3B0C0126-0A45-4101-B5F9-BF75BEDEE398"
     },
     {
       "class": "bitmap",
@@ -63,12 +59,12 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 290,
+            "constant": 264,
             "enabled": 1,
             "modelID": "constraint_f2d7764d-08d4-478d-b155-ec089fddccf1",
             "model_class": "ADModelConstraint",
             "model_version": 0,
-            "multiplier": 290
+            "multiplier": 265
           },
           "automatic": 1,
           "modelID": "viewConstraints_cbf54e19-b00e-409c-8429-e85bae6c86d6",

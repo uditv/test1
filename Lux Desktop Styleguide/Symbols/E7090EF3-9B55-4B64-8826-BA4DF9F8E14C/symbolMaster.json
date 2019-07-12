@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2271,
+  "changeIdentifier": 2482,
   "clippingMaskMode": 0,
   "do_objectID": "E7090EF3-9B55-4B64-8826-BA4DF9F8E14C",
   "exportOptions": {
@@ -24,16 +24,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 438,
+    "height": 440,
     "width": 1440,
     "x": 100,
-    "y": 2276
+    "y": 2256
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -52,10 +52,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "18E1CD68-425F-48E3-A521-9E4712FDA57A"
-    },
     {
       "class": "group",
       "id": "78407C81-6F03-4DE4-AD90-B427E4BB039F"
@@ -80,18 +76,18 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 1120
   },
-  "name": "ShopBySubCat",
+  "name": "o-widget/shopbysubcategory",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "010FF53D-407F-47B1-870F-29ED3A6C38EF_textStyle"
+      "overrideName": "561F043A-CA00-4F10-9C9D-90EC11ACB699_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "010FF53D-407F-47B1-870F-29ED3A6C38EF_stringValue"
+      "overrideName": "561F043A-CA00-4F10-9C9D-90EC11ACB699_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
