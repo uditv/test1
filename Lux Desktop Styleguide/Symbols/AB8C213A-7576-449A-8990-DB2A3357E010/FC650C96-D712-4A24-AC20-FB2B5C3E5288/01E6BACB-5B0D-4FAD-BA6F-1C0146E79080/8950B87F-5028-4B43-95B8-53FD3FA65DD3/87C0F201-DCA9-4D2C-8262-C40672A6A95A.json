@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2705882352941176,
-            "green": 0.2784313725490196,
-            "red": 0.2862745098039216
+            "blue": 0.1803921568627451,
+            "green": 0.1921568627450981,
+            "red": 0.2
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -23,11 +23,13 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 14,
+            "minimumLineHeight": 14,
             "paragraphSpacing": 2
           },
-          "textStyleVerticalAlignmentKey": 0
+          "strikethroughStyle": 0,
+          "underlineStyle": 0
         },
         "length": 6,
         "location": 0
@@ -52,12 +54,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 17,
+    "height": 14,
     "width": 44,
     "x": 396,
-    "y": 327
+    "y": 329
   },
-  "glyphBounds": "{{0, 3}, {44, 13}}",
+  "glyphBounds": "{{0, 1}, {44, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,9 +73,11 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "51BF5E11-9296-49C3-821C-D961377890D2",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "B2185ABF-DC4B-46E8-A000-DDDFEBCBFEB6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -83,9 +87,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2705882352941176,
-          "green": 0.2784313725490196,
-          "red": 0.2862745098039216
+          "blue": 0.1803921568627451,
+          "green": 0.1921568627450981,
+          "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -97,11 +101,13 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 14,
+          "minimumLineHeight": 14,
           "paragraphSpacing": 2
         },
-        "textStyleVerticalAlignmentKey": 0
+        "strikethroughStyle": 0,
+        "underlineStyle": 0
       },
       "verticalAlignment": 0
     },
