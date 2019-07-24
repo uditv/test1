@@ -7,6 +7,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -51,6 +60,21 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 62.66726,
+            "enabled": 1,
+            "modelID": "constraint_35153749-1cdf-4ca3-ba6d-fd0ac0795d60",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 123.2394
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_62ceecc4-9f9d-42e4-8a3f-e1b05b36f9d6",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
       }
     }
   }

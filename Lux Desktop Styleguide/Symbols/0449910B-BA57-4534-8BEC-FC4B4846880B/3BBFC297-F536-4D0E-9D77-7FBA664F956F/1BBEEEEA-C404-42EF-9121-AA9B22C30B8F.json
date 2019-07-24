@@ -52,7 +52,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
+    "height": 15,
     "width": 66,
     "x": 30,
     "y": 8
@@ -107,5 +107,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }
