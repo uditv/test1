@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Lato-Regular",
-              "size": 18
+              "size": 16
             }
           },
           "MSAttributedStringTextTransformAttribute": 1,
@@ -25,6 +25,8 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16,
             "paragraphSpacing": 2
           }
         },
@@ -53,12 +55,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1BBDFF9D-B80C-4784-BC9C-81127238FD39",
-    "height": 22,
+    "height": 16,
     "width": 190,
     "x": 0,
-    "y": 22
+    "y": 24
   },
-  "glyphBounds": "{{0, 4}, {132, 15}}",
+  "glyphBounds": "{{0, 2}, {117, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -94,7 +96,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Lato-Regular",
-            "size": 18
+            "size": 16
           }
         },
         "MSAttributedStringTextTransformAttribute": 1,
@@ -102,6 +104,8 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16,
           "paragraphSpacing": 2
         }
       },

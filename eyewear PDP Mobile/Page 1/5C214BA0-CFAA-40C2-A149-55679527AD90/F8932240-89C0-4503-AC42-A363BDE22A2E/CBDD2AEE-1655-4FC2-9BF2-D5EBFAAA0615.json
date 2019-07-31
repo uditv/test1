@@ -17,17 +17,16 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Lato-Bold",
-              "size": 12
+              "size": 14
             }
           },
           "MSAttributedStringTextTransformAttribute": 1,
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 36,
-            "minimumLineHeight": 36
-          }
+            "alignment": 2
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
         "length": 12,
         "location": 0
@@ -53,12 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 72,
-    "width": 87,
-    "x": -0.5,
+    "do_objectID": "82862229-126F-49FC-9741-7C61FF7D8D08",
+    "height": 17,
+    "width": 101,
+    "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 14}, {86, 10}}",
+  "glyphBounds": "{{1, 3}, {99, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,7 +72,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "5DF173C7-7700-4C94-9E14-E4F9C130822C",
+  "sharedStyleID": "2162B2E8-DDD7-4809-9E9B-2A94D3A239D5",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -82,7 +82,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "40B3DE06-BBDF-4804-8D9D-EF069DE67F5E",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -95,17 +94,16 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Lato-Bold",
-            "size": 12
+            "size": 14
           }
         },
         "MSAttributedStringTextTransformAttribute": 1,
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "maximumLineHeight": 36,
-          "minimumLineHeight": 36
-        }
+          "alignment": 2
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },
