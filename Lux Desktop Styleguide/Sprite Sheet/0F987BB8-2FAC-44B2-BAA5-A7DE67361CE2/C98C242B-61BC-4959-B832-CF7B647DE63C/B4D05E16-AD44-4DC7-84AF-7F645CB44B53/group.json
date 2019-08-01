@@ -24,12 +24,12 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
+    "constrainProportions": false,
     "do_objectID": "7971CBCF-37C5-4975-A8D1-AF6471DE7933",
-    "height": 16,
-    "width": 18,
-    "x": 172,
-    "y": 6
+    "height": 24,
+    "width": 24,
+    "x": 170,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -42,8 +42,12 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "C9C8D4F6-3947-43B0-A4E4-8EADB399A1CD"
+    },
     {
       "class": "group",
       "id": "2CBA65D9-643F-4F91-A883-ABAD46F74DEF"
@@ -66,21 +70,6 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "constraints": {
-          "aspectRatio": {
-            "constant": 16,
-            "enabled": 1,
-            "modelID": "constraint_c269b202-13cd-4ca7-a20f-0c0b0b5dc085",
-            "model_class": "ADModelConstraint",
-            "model_version": 0,
-            "multiplier": 17.6
-          },
-          "automatic": 1,
-          "modelID": "viewConstraints_b2d90c96-9f4b-4f6c-a2f3-665f00dac56a",
-          "model_class": "ADModelViewConstraints",
-          "model_version": 0,
-          "scaleFactor": 1
-        }
       }
     }
   }

@@ -26,10 +26,10 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "4101F2B6-0322-4261-B218-91346B4ED88E",
-    "height": 20,
-    "width": 16,
-    "x": 138,
-    "y": 2
+    "height": 24,
+    "width": 24,
+    "x": 102,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -42,8 +42,12 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "A9C1C3F2-0E3F-4FE7-8744-9AC007794CC4"
+    },
     {
       "class": "rectangle",
       "id": "8D0C4C65-9A3D-4AA0-81D2-9A67A8ED161C"
@@ -90,12 +94,12 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 20,
+            "constant": 24,
             "enabled": 1,
             "modelID": "constraint_6bd6a6f6-387a-44d8-bfc2-c64e55f1578b",
             "model_class": "ADModelConstraint",
             "model_version": 0,
-            "multiplier": 16
+            "multiplier": 24
           },
           "automatic": 1,
           "modelID": "viewConstraints_33724ee0-c1d3-45d1-a3fb-c74661a792f7",
