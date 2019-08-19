@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 65,
+  "changeIdentifier": 133,
   "clippingMaskMode": 0,
   "do_objectID": "D2FCF328-9033-4E8E-95F6-7D3CCB945F30",
   "exportOptions": {
@@ -24,7 +24,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 511,
+    "height": 560,
     "width": 455,
     "x": 9315,
     "y": 2335
@@ -55,11 +55,120 @@
     {
       "class": "group",
       "id": "BFDFB6A6-542B-4ED2-8C8E-E10807CF940A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FDE4CEDA-9308-4116-831A-A855140EA368"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 75,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 4,
+    "gutterWidth": 20,
+    "guttersOutside": false,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 5,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 455
+  },
   "name": "o-pdp firstfold/solution/collapsed",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4BE378AE-1672-49B3-85ED-C89CB9DA7620_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "08E2A228-7694-4149-8DFD-13FCC5A5A704_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "751F9CBA-C9FB-49C5-8F03-605B0184913B_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "ADFAD590-BCF6-4040-911F-1BA463FB7CB0_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8794A230-DE1C-4DDA-B9F5-10E8137518C2_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3226783E-3987-46A5-8484-2C3B9730777F_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3AA6AFD6-5973-4072-8A96-A401ECA187DD_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3538330C-3F8F-4592-BA8E-97C1DBCC3611_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7811D86B-D947-454E-8359-0FFA5A8BD124_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F40F3920-D390-4495-881A-8A7E703CBEDF_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E720002C-FADA-484E-9974-94846054BE69_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FE9ACB76-66BF-495F-8AC2-6233A89C9996_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "440ED6B1-B07C-4E6E-B3EC-8672E98BDDD9_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "70205F04-EC44-403C-A710-7EF18A41901C_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "04E8231D-6C2F-4D79-8A7B-088C29A38690_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FDE4CEDA-9308-4116-831A-A855140EA368_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "931FBA93-CC21-4418-B975-96E5B21F6A39_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "70205F04-EC44-403C-A710-7EF18A41901C_textStyle"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,
