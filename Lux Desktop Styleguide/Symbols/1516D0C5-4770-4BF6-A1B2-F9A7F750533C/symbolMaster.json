@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 425,
+  "changeIdentifier": 427,
   "clippingMaskMode": 0,
   "do_objectID": "1516D0C5-4770-4BF6-A1B2-F9A7F750533C",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,9 +57,14 @@
       "id": "E94FC1EA-75AA-4D06-912F-F563211B0484"
     }
   ],
-  "name": "a-checkout/completed/bag",
+  "name": "a/checkout/completed/bag",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3F5A7A44-999D-445B-89C4-8941A13A5351_textStyle"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

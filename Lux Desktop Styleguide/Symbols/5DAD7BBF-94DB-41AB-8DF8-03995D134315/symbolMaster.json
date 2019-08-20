@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 12,
+  "changeIdentifier": 15,
   "clippingMaskMode": 0,
   "do_objectID": "5DAD7BBF-94DB-41AB-8DF8-03995D134315",
   "exportOptions": {
@@ -57,9 +57,54 @@
       "id": "40133378-5E7F-4373-ABE7-D1B1E885288D"
     }
   ],
-  "name": "m-bankoffers",
-  "nameIsFixed": false,
+  "name": "m/bankoffers",
+  "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1F026A8C-E1E0-4A7C-989D-A000591A3315_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2022CD68-6A21-464A-A88B-D1993A56C8A4_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "20588904-BA1C-4C02-8DC3-4278D181BEC5_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2022CD68-6A21-464A-A88B-D1993A56C8A4_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1FAAC9E1-9C62-4B8E-91BD-7EA72C1F2EFA_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1FAAC9E1-9C62-4B8E-91BD-7EA72C1F2EFA_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7715FDF2-4297-43C2-9382-573E03002C9C_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C6737AF2-B956-4494-9251-99A0A444313D_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1F026A8C-E1E0-4A7C-989D-A000591A3315_stringValue"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,
