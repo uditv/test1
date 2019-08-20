@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 348,
+  "changeIdentifier": 350,
   "clippingMaskMode": 0,
   "do_objectID": "AFBD49A4-2D7E-4840-A274-907E2AFFEB9B",
   "exportOptions": {
@@ -57,9 +57,14 @@
       "id": "58425948-D07C-47B8-AE74-158BECCC52BA"
     }
   ],
-  "name": "a-checkout/inactive/login",
+  "name": "a/checkout/inactive/login",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A299BB42-86FE-4C0E-B551-6667C53CD1A4_textStyle"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
