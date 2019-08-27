@@ -14,7 +14,7 @@
             "red": 0.1098039215686274
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
               "name": "Lato-Bold",
               "size": 16
@@ -54,9 +54,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "8F3D47F0-C0E0-4EA0-B045-DA69F796AE53",
     "height": 18,
-    "width": 121,
+    "width": 122,
     "x": 446,
     "y": 253
   },
@@ -94,7 +93,7 @@
           "red": 0.1098039215686274
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
             "name": "Lato-Bold",
             "size": 16
