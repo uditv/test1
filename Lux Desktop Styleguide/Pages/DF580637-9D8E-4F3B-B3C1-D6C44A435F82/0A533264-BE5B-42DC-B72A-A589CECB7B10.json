@@ -14,7 +14,7 @@
             "red": 0.1098039215686274
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
               "name": "Lato-Bold",
               "size": 20
@@ -53,10 +53,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B20DFFFE-ED42-4D83-9993-26C919EE6B36",
-    "height": 36,
-    "width": 161,
-    "x": 640,
+    "height": 72,
+    "width": 163,
+    "x": 639,
     "y": 158
   },
   "glyphBounds": "{{0, 11}, {160, 16}}",
@@ -93,7 +92,7 @@
           "red": 0.1098039215686274
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
             "name": "Lato-Bold",
             "size": 20
