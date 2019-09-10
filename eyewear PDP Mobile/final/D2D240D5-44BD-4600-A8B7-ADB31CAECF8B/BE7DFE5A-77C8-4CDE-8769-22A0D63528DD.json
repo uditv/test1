@@ -1,0 +1,75 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "BE7DFE5A-77C8-4CDE-8769-22A0D63528DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3858E9A9-6AE5-4B96-9037-E42B0B3A953C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "3BD5BD54-F6B4-4A82-A200-757F6A619CCF",
+    "height": 1260,
+    "width": 945.1784702549575,
+    "x": -317.0181303116147,
+    "y": -594
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/c810866922e1eb313c2d92a820a56cce75cf2106.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "original (3)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "02114828-E0E7-49EC-82BC-6F4FB56C253F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 1260,
+            "enabled": 1,
+            "modelID": "constraint_94208700-eb99-4826-9d47-bff8f7987d06",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 945.1785
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_8af493d2-f102-4770-a273-53b8b7c3d8e0",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

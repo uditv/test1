@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E66070AC-0156-42EE-B65E-7FBA2A9CD9FF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 116,
+    "width": 116,
+    "x": 292,
+    "y": 681
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C17C6B2E-41CB-4EC1-A28B-2365B126E77D"
+    },
+    {
+      "class": "bitmap",
+      "id": "86860A76-3DFF-4E53-A152-0ECF7ED7C2D9"
+    }
+  ],
+  "name": "original (1)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 119,
+            "enabled": 1,
+            "modelID": "constraint_0ea97f0a-ae23-479a-a093-01141bc83935",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 119
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_aa0dbf5e-2454-4185-a5ef-08db2434a296",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
