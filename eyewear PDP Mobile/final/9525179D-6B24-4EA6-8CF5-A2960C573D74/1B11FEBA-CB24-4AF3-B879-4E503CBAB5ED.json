@@ -16,6 +16,33 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
+              "name": "PingFangSC-Semibold",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.1803921568627451,
+            "green": 0.1921568627450981,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
               "name": "Lato-Bold",
               "size": 16
             }
@@ -28,10 +55,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 6,
-        "location": 0
+        "location": 1
       }
     ],
-    "string": "₹9,500"
+    "string": "₹22,460"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +80,11 @@
     "constrainProportions": false,
     "do_objectID": "9089B0D5-9024-4DA3-91FA-F29AEAEDA59F",
     "height": 22,
-    "width": 51,
+    "width": 60,
     "x": 20,
     "y": 271
   },
-  "glyphBounds": "{{0, 5}, {50, 15}}",
+  "glyphBounds": "{{0, 5}, {60, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +93,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "₹9,500",
+  "name": "₹22,460",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

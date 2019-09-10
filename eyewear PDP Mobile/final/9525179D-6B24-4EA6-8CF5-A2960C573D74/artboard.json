@@ -27,7 +27,7 @@
     "do_objectID": "EAA3C0DB-566B-489F-8AFA-8AC8C042C129",
     "height": 2768,
     "width": 375,
-    "x": 762,
+    "x": 1636,
     "y": -334
   },
   "groupLayout": {
@@ -35,7 +35,7 @@
     "do_objectID": "A504FC15-A249-4C52-9E42-4BA33DEC6A1C"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,10 +56,6 @@
   "layers": [
     {
       "class": "group",
-      "id": "336A782C-368F-4894-A2D1-E7DFD51C8DF4"
-    },
-    {
-      "class": "group",
       "id": "88C6D2CA-CB26-45D8-8B30-194ED16B19E1"
     },
     {
@@ -73,6 +69,10 @@
     {
       "class": "group",
       "id": "29C9D191-F869-4C24-8E8F-6630E597494F"
+    },
+    {
+      "class": "bitmap",
+      "id": "62161D2D-4615-406C-8724-DEC79A562342"
     },
     {
       "class": "group",
@@ -207,6 +207,10 @@
       "id": "0B54E364-DFF8-43CE-8CC7-F23E4B403539"
     },
     {
+      "class": "text",
+      "id": "CEDA8BBE-EAD9-46E8-83AB-12BB1E190568"
+    },
+    {
       "class": "rectangle",
       "id": "1EAF9A61-457F-48D1-84C3-9DC6AB34510B"
     },
@@ -268,15 +272,7 @@
     },
     {
       "class": "group",
-      "id": "0E9BE244-E32C-42E8-97B2-E02CFCB6239A"
-    },
-    {
-      "class": "group",
       "id": "6A64D088-E086-47AB-B5F0-12D00E169C11"
-    },
-    {
-      "class": "group",
-      "id": "DBC3E282-1E97-4762-BD2D-4B61F5310738"
     },
     {
       "class": "shapePath",
@@ -284,7 +280,7 @@
     },
     {
       "class": "group",
-      "id": "8E5314FF-9B6E-4BA6-B076-0D408B74902B"
+      "id": "E954A51C-1542-45EF-BA7C-26432BC0BE33"
     },
     {
       "class": "text",
@@ -301,6 +297,10 @@
     {
       "class": "group",
       "id": "429EF5D1-8FDD-4461-95AC-926B29E39A2F"
+    },
+    {
+      "class": "group",
+      "id": "8E5314FF-9B6E-4BA6-B076-0D408B74902B"
     }
   ],
   "layout": {
@@ -314,12 +314,12 @@
     "gutterWidth": 10,
     "guttersOutside": false,
     "horizontalOffset": 20,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 6,
     "rowHeightMultiplication": 1,
     "totalWidth": 335
   },
-  "name": "PDP Details/single colour variant/breadcrumbs at bottom",
+  "name": "Shoe PDP details",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
