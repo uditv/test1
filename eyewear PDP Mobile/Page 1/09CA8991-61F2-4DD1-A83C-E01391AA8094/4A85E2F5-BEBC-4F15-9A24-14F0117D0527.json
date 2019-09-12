@@ -1,0 +1,75 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "4A85E2F5-BEBC-4F15-9A24-14F0117D0527",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5A6DC92C-664F-446A-9D24-F5FB19B08F3A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7E29974B-3064-4417-8D2A-E76C37335B79",
+    "height": 622,
+    "width": 466.5881019830028,
+    "x": -69.7507082152975,
+    "y": 44
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/c810866922e1eb313c2d92a820a56cce75cf2106.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "original (3)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "057D1B8A-69D6-4682-9F83-57A875C81792",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 622,
+            "enabled": 1,
+            "modelID": "constraint_94208700-eb99-4826-9d47-bff8f7987d06",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 466.5881
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_8af493d2-f102-4770-a273-53b8b7c3d8e0",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

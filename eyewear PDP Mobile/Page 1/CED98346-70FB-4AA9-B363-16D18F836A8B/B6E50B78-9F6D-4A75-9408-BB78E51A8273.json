@@ -1,0 +1,75 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "B6E50B78-9F6D-4A75-9408-BB78E51A8273",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B21C60DC-BC6A-4760-8B5D-430EC898CFF3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "01A59FB0-F888-4D20-95CB-FECB64725974",
+    "height": 499.9055891238671,
+    "width": 375,
+    "x": -0.4152974504248732,
+    "y": 92
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/c810866922e1eb313c2d92a820a56cce75cf2106.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "original (3)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7583DAD1-4463-4F79-8CB4-2D0D8DB32D2E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 499.9056,
+            "enabled": 1,
+            "modelID": "constraint_94208700-eb99-4826-9d47-bff8f7987d06",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 375
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_8af493d2-f102-4770-a273-53b8b7c3d8e0",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

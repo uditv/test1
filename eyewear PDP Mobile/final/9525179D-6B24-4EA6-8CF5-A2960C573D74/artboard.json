@@ -27,15 +27,15 @@
     "do_objectID": "EAA3C0DB-566B-489F-8AFA-8AC8C042C129",
     "height": 2768,
     "width": 375,
-    "x": 1360,
-    "y": -334
+    "x": -647,
+    "y": -430
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "A504FC15-A249-4C52-9E42-4BA33DEC6A1C"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,22 +54,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "group",
-      "id": "88C6D2CA-CB26-45D8-8B30-194ED16B19E1"
-    },
-    {
-      "class": "group",
-      "id": "69BC270C-5748-47D4-BB7E-8ABC50E18961"
-    },
-    {
-      "class": "group",
-      "id": "A07DC16C-78FC-421B-BC5D-AC31D89AF71C"
-    },
-    {
-      "class": "group",
-      "id": "29C9D191-F869-4C24-8E8F-6630E597494F"
-    },
     {
       "class": "bitmap",
       "id": "62161D2D-4615-406C-8724-DEC79A562342"
@@ -117,30 +101,6 @@
     {
       "class": "rectangle",
       "id": "064BFAAA-87D5-4C65-BC4E-11700C09DC34"
-    },
-    {
-      "class": "text",
-      "id": "A41AD440-2F07-4E25-85EF-2013F21520EB"
-    },
-    {
-      "class": "text",
-      "id": "EC257A6C-9375-42C0-A0E4-AF3379C4FE55"
-    },
-    {
-      "class": "text",
-      "id": "F3A14889-2322-4D39-9E6D-B0E230D083B2"
-    },
-    {
-      "class": "text",
-      "id": "3DB5E490-5BDB-4FF5-ADC7-9833575F33AE"
-    },
-    {
-      "class": "text",
-      "id": "7B5B08E0-77EE-4BAF-81E5-F5DF70EC1982"
-    },
-    {
-      "class": "text",
-      "id": "4A839268-6611-4FA6-9C11-07023D8F5675"
     },
     {
       "class": "group",
@@ -219,16 +179,20 @@
       "id": "B162DE1C-D277-43AA-BD59-7294CEA6B002"
     },
     {
+      "class": "group",
+      "id": "DF39E70F-99DE-4B05-8A8F-FACDA55E02BA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D33E0D9-DF3E-4575-90C3-3AB096590398"
+    },
+    {
       "class": "shapePath",
       "id": "FD1BE54D-8B2F-46A2-8716-4635AE9815AD"
     },
     {
       "class": "shapePath",
       "id": "D8F672E1-956A-4799-A9F7-BA5894095D32"
-    },
-    {
-      "class": "shapePath",
-      "id": "12C624A9-DE88-428D-A90B-78D8852F9ACA"
     },
     {
       "class": "shapePath",
