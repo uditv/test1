@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "BEC461F5-A47F-4081-8CD0-F96B32A5B1FE",
-    "height": 3143,
+    "height": 1075,
     "width": 375,
     "x": 303,
     "y": -430
@@ -35,7 +35,7 @@
     "do_objectID": "BA8E3C07-0218-4D84-BA25-6FEB8549F5C1"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,6 +59,10 @@
       "id": "0A4AB5B7-19B0-437D-B09F-4140CF9B6410"
     },
     {
+      "class": "rectangle",
+      "id": "BC195E87-8B5C-43D3-88DD-CA7000AC6174"
+    },
+    {
       "class": "group",
       "id": "8543C3B9-A646-403B-B93F-B44E2D5B1E1D"
     },
@@ -67,8 +71,8 @@
       "id": "C3B5DBBC-C119-4E1F-BC89-EAA5CEAA8E28"
     },
     {
-      "class": "rectangle",
-      "id": "CAF6FF3E-E356-488F-836E-F8A2B552C719"
+      "class": "group",
+      "id": "33866E91-F327-439D-AA77-6581EAA2B5D5"
     },
     {
       "class": "text",
@@ -197,10 +201,6 @@
     {
       "class": "text",
       "id": "018B6AA2-A812-46A3-A339-355DB1093BE9"
-    },
-    {
-      "class": "shapePath",
-      "id": "940449FE-00BD-45C4-B470-DCCC7CC15393"
     }
   ],
   "layout": {
@@ -219,7 +219,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 335
   },
-  "name": "Eyewear PDP Details Copy",
+  "name": "Season/collection tag",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
