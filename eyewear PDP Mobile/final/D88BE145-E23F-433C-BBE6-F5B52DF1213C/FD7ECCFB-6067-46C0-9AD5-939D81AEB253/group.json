@@ -36,46 +36,11 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "6272C1FA-5DB5-4111-A493-9EA330446B75"
-    },
-    {
       "class": "symbolInstance",
-      "id": "CDD9129D-0CBF-4FFE-A957-1499C79475A7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "21C2FEB0-BD77-4FD6-9FAA-FFCF5F9B3EBD"
-    },
-    {
-      "class": "group",
-      "id": "C7CFF32B-1676-4A33-81B6-D177E263F8E7"
-    },
-    {
-      "class": "group",
-      "id": "D9E814CF-20EA-419B-B056-EBF407EB53EC"
-    },
-    {
-      "class": "text",
-      "id": "C72218B3-B481-4B98-8CFC-9A1369A1F01B"
-    },
-    {
-      "class": "text",
-      "id": "61F01DFF-97F3-4500-9672-074834DFB750"
-    },
-    {
-      "class": "text",
-      "id": "68537B7A-B7B9-49D1-8CB3-2A7B7500E3FB"
-    },
-    {
-      "class": "group",
-      "id": "9BA9917A-2CA5-43D2-A7F5-A0F6150E19E3"
-    },
-    {
-      "class": "rectangle",
-      "id": "35BA6A56-2E57-43FB-BB3D-B0BCACB2B547"
+      "id": "FF6FE166-5DA8-482C-A465-E403754F120B"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Group 7",
   "nameIsFixed": false,
   "resizingConstraint": 63,
@@ -84,8 +49,44 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "997B4E44-18CE-45B6-B232-3F44578DFE96",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
     "shadows": [
       {

@@ -56,15 +56,7 @@
   "layers": [
     {
       "class": "group",
-      "id": "FA311C1B-99F9-4E03-BD28-CBFF8FD3937D"
-    },
-    {
-      "class": "group",
       "id": "A33C6856-4709-4BD3-8366-E9A16A29F26F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C1D71407-B1E9-4DA8-B4B1-4C6FDDB26FAC"
     },
     {
       "class": "group",
@@ -73,8 +65,21 @@
     {
       "class": "group",
       "id": "A8C00522-5791-4EF5-A96A-4F33D5D4028A"
+    },
+    {
+      "class": "text",
+      "id": "3F84C859-961F-4532-B49E-B2BEBAD2AF75"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3A09C33-3470-4E40-94DD-FBA608325AEC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "49A03118-74E6-4D08-8A06-5C11D5C926F9"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Zoomed view empty state",
   "nameIsFixed": true,
   "presetDictionary": {
@@ -91,9 +96,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "7655FC73-A750-4A1D-BFF3-EF55A479D690",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

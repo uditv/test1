@@ -60,15 +60,15 @@
     },
     {
       "class": "group",
-      "id": "849C9B84-439A-4CD4-8110-26A83B615B39"
-    },
-    {
-      "class": "group",
       "id": "4C222EC3-61F4-408B-B982-EEDC6A760B78"
     },
     {
       "class": "rectangle",
       "id": "2190033E-19DF-4079-B549-A21F24C73CD9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FCC9D86C-6D19-4312-8640-3FB30D84C364"
     },
     {
       "class": "group",
@@ -147,46 +147,6 @@
       "id": "73F3B791-7AAC-4ABC-AE75-887A68F2A2B6"
     },
     {
-      "class": "symbolInstance",
-      "id": "C430C5B7-6271-45B0-8CA1-AF9566E7F166"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3F517AB4-659B-429D-9B9E-D8DCF9BB9F23"
-    },
-    {
-      "class": "text",
-      "id": "650B0B7A-4249-41C3-AB6C-CD988840B3D7"
-    },
-    {
-      "class": "text",
-      "id": "1B11FEBA-CB24-4AF3-B879-4E503CBAB5ED"
-    },
-    {
-      "class": "group",
-      "id": "0B54E364-DFF8-43CE-8CC7-F23E4B403539"
-    },
-    {
-      "class": "text",
-      "id": "CEDA8BBE-EAD9-46E8-83AB-12BB1E190568"
-    },
-    {
-      "class": "rectangle",
-      "id": "1EAF9A61-457F-48D1-84C3-9DC6AB34510B"
-    },
-    {
-      "class": "shapePath",
-      "id": "B162DE1C-D277-43AA-BD59-7294CEA6B002"
-    },
-    {
-      "class": "group",
-      "id": "DF39E70F-99DE-4B05-8A8F-FACDA55E02BA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2D33E0D9-DF3E-4575-90C3-3AB096590398"
-    },
-    {
       "class": "shapePath",
       "id": "FD1BE54D-8B2F-46A2-8716-4635AE9815AD"
     },
@@ -228,31 +188,7 @@
     },
     {
       "class": "group",
-      "id": "3A75D774-F2DC-402E-A0E8-F5D9A40B0824"
-    },
-    {
-      "class": "text",
-      "id": "685E7139-7E73-47CD-BDFC-BC852C9CD4AA"
-    },
-    {
-      "class": "group",
       "id": "6A64D088-E086-47AB-B5F0-12D00E169C11"
-    },
-    {
-      "class": "shapePath",
-      "id": "D36520C8-8DB8-4E5C-8670-C58F58E6A7C6"
-    },
-    {
-      "class": "group",
-      "id": "E954A51C-1542-45EF-BA7C-26432BC0BE33"
-    },
-    {
-      "class": "text",
-      "id": "C51A493F-CA42-4792-AF4D-47841839DC20"
-    },
-    {
-      "class": "text",
-      "id": "826E307B-E68B-46E5-AE00-A96D8DFA4EBC"
     },
     {
       "class": "group",
@@ -265,6 +201,14 @@
     {
       "class": "group",
       "id": "8E5314FF-9B6E-4BA6-B076-0D408B74902B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A7AAB2CF-1E10-4F69-9875-BA8938FE5650"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D0380118-F80D-49EE-879C-43492AABE8F9"
     }
   ],
   "layout": {
@@ -283,6 +227,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 335
   },
+  "maintainScrollPosition": false,
   "name": "Shoe PDP details",
   "nameIsFixed": true,
   "presetDictionary": {
@@ -299,9 +244,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "EA7EEC4B-BC24-4B84-9E3C-7958BB3F457C",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
