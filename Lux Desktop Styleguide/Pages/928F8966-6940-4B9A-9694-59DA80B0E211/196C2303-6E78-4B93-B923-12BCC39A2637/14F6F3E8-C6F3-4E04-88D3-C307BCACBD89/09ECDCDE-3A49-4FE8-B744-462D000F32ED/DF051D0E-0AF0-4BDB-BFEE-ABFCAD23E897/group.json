@@ -5,7 +5,6 @@
   "do_objectID": "DF051D0E-0AF0-4BDB-BFEE-ABFCAD23E897",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "157CCFAD-7E5A-4D41-9D03-ED82A4F032D5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "CD5A8C1E-76E6-4AF5-B09E-278FBFC2E21F",
     "height": 28,
     "width": 148.2352941176471,
     "x": 646.9999999999999,
     "y": 20
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "7D56EDDA-E030-40B4-924F-2B3291235FFC"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -48,6 +45,7 @@
       "id": "72B69DC1-7810-4B5A-AC27-0A312ACE5678"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "TATA CLiQ_Logo_Black",
   "nameIsFixed": false,
   "resizingConstraint": 63,
@@ -56,9 +54,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "56B96ECE-74F2-480E-8B4A-89754B721E49",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

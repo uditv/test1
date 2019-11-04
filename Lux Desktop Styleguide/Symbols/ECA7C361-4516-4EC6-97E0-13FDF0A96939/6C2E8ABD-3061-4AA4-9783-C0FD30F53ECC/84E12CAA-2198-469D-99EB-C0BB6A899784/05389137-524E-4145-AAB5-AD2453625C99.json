@@ -28,11 +28,11 @@
             "minimumLineHeight": 14
           }
         },
-        "length": 20,
+        "length": 26,
         "location": 0
       }
     ],
-    "string": "Help with your order"
+    "string": "Need help with your order?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 131,
+    "width": 170,
     "x": 20,
-    "y": 25
+    "y": 24
   },
-  "glyphBounds": "{{1, 1}, {129, 14}}",
+  "glyphBounds": "{{1, 1}, {169, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Help with your order",
+  "maintainScrollPosition": false,
+  "name": "Need help with your",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -74,8 +75,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "E408BAAC-F115-4B1C-9276-0FDEEA29514C",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",

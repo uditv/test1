@@ -5,7 +5,6 @@
   "do_objectID": "FE9B0005-7109-4299-BAAF-C9197F80027C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FFBC8019-41FF-4688-A58F-0CCAAA7AF46B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "1DE65C74-4779-4F7E-8919-C571DDC20E3A",
     "height": 34,
     "width": 47,
     "x": 1497,
     "y": 0
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "5AF68E7A-0C1B-456A-A1BF-B8EC319C54A0"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -44,6 +41,7 @@
       "id": "7AD1ACFD-B20A-47F8-809B-646CC5F477F6"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "diners-club",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -55,16 +53,44 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "A6943DD1-8F93-448A-9779-0CA89F358075",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 3.684210526315789,
       "saturation": 1,
       "type": 0
     },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "CA723FC8-BC26-4AFD-ADC1-F255B11E7238",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

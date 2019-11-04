@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 15,
+  "changeIdentifier": 17,
   "clippingMaskMode": 0,
   "do_objectID": "5DAD7BBF-94DB-41AB-8DF8-03995D134315",
   "exportOptions": {
@@ -57,6 +57,7 @@
       "id": "40133378-5E7F-4373-ABE7-D1B1E885288D"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "m/bankoffers",
   "nameIsFixed": true,
   "overrideProperties": [
@@ -106,6 +107,8 @@
       "overrideName": "1F026A8C-E1E0-4A7C-989D-A000591A3315_stringValue"
     }
   ],
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -113,8 +116,47 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "40093AE8-6ADD-4A0D-B8AC-8A2B6B2A72D7",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

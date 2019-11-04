@@ -5,7 +5,6 @@
   "do_objectID": "1627A881-4007-40E5-BCF6-45ED4BBF5088",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EA37C80E-98D1-49B1-8FC8-287CD391E691",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7B9FF34A-91EB-44F0-BF6E-F2F9DC99CD51",
     "height": 13.97550000000001,
     "width": 13.97550000000001,
     "x": 2.282618538629322e-13,
     "y": 8.881784197001252e-16
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "69B22271-161A-4349-9700-ECF614505C75"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -44,6 +41,7 @@
       "id": "FE845E61-A06E-4959-9AA4-747300CB0F01"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Shape",
   "nameIsFixed": false,
   "resizingConstraint": 63,
@@ -52,6 +50,38 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "836E69C1-D4FA-4F88-BFD6-CAB5CD6D9946",
     "endMarkerType": 0,
     "fills": [
@@ -63,6 +93,11 @@
           "blue": 0.4235294118,
           "green": 0.4235294118,
           "red": 0.4235294118
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
         },
         "fillType": 0,
         "gradient": {
@@ -125,7 +160,11 @@
         "patternTileScale": 1
       }
     ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 0
   },

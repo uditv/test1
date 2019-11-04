@@ -5,7 +5,6 @@
   "do_objectID": "B4F921BE-67C6-4FFC-92F6-F63B66F6E846",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DA229050-67BB-42D1-A099-3C5D99901F57",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "AB7DB198-C282-4730-BDA9-DBCF69D55489",
     "height": 612,
     "width": 455,
     "x": 824,
@@ -30,30 +28,27 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "o-pdp firstfold/Collapsed",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "7432389F-3C05-4A09-8794-EEB8E020BBC8",
       "overrideName": "D640C45F-DCB1-43F3-8F5C-2665F1AFD7D3/7A079049-2E49-4F94-903B-E756763573FD_symbolID",
       "value": ""
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "68886314-6AFC-4530-A999-91DC92B5D0AF",
       "overrideName": "D4132A25-3D25-4C09-8E33-9B281B2FAA34/4EE1F941-6913-4628-AAC9-FF3BB87790FE_symbolID",
       "value": ""
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "246FB424-1A7A-4AAC-8822-2F221D7DFC42",
       "overrideName": "E5458E01-C56B-4C4E-9DB0-6803258A6878_stringValue",
       "value": "Round Tortoise Shell Sunglasses"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "3079B9F4-17A6-44A3-A5F9-74AEA09075F6",
       "overrideName": "1AB74E05-24D8-4100-8A49-20D9F95FC1EA/B9FDE695-CB8E-4475-BE77-4126E17FA2B8_stringValue",
       "value": "Check"
     }
@@ -65,9 +60,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "5B6FD928-7195-4484-88EB-50D1FC59BD95",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

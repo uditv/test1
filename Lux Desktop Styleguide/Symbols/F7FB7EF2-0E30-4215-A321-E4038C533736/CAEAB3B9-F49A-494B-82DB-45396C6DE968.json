@@ -5,7 +5,6 @@
   "do_objectID": "CAEAB3B9-F49A-494B-82DB-45396C6DE968",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "651CD73A-5CF9-4BA5-BF6C-1CDA44FE0957",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "691F5AA2-53AB-443A-A1D3-5B70AB2C3668",
     "height": 784,
     "width": 455,
     "x": 0,
@@ -30,60 +28,47 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
+  "maintainScrollPosition": false,
   "name": "o-pdp firstfold/glasses/expanded copy",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "89172750-657E-4D51-A3A7-C2871E127E5C",
-      "overrideName": "74B86946-CC33-494E-B03A-491E39A15A1D/58C2405F-365B-4C9C-9F4B-15E13CBBB510_stringValue",
-      "value": "more details"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "D2CFD137-D838-48E9-942F-0212F3B181A6",
       "overrideName": "CCDBDE07-4A0C-4E81-8822-B33E74150425_stringValue",
       "value": "By Sunrise Luxury Retail Private Limited"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "1372619A-8F65-474B-9DBA-0FAE1A3BD9B6",
       "overrideName": "64B9B26F-BA45-44D4-9098-F6E67F8DD0C2_stringValue",
       "value": "10% OFF"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "73CF90BA-C6D8-4744-AA69-B5676F3C4185",
       "overrideName": "BC08B664-64C3-43A6-92EA-0BBF947E4C05/52E466D5-ED43-48B1-A63F-3632A162B985_stringValue",
       "value": "Order by 3pm"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "0EA58777-FAE5-44B9-8ABD-651E020676B7",
       "overrideName": "BC08B664-64C3-43A6-92EA-0BBF947E4C05/F77FF853-857A-42FE-B2D1-464A212060F1_stringValue",
       "value": "QuiQ PiQ"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "324A754F-14DF-4C1D-8B7C-BA9BCEA10A0A",
       "overrideName": "8EC1C0E4-F27C-4F04-8BB6-364934713A2E/C1343178-5F9E-498C-B227-822C2CF38C28_stringValue",
       "value": "Accessories"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "2B5B0E2B-A238-4DE0-99F1-4EF6A278DBFA",
       "overrideName": "BC08B664-64C3-43A6-92EA-0BBF947E4C05/7A3E9C48-E9C5-4789-AC75-0B37FC3017BA_stringValue",
       "value": "Delivery"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "FF076B72-0CD1-4AE7-8178-530A6D20A474",
       "overrideName": "494DA034-8B22-4D71-AD99-C1BA4DBCD355/59726A26-575C-4072-B4E3-A28A413B90C4_stringValue",
       "value": "Select Colour"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "C1C82EA3-EBA0-45D7-B748-04F4CBD3F8C0",
       "overrideName": "727C7B70-149F-4DD9-8B1B-3B16D051BA79/2D72E97E-8493-49EB-B479-347314A6EECF/1DAC6AFE-429B-4A4E-A42F-89B7AA86898C_stringValue",
       "value": "This item is serviceable to your pincode"
     }
@@ -95,9 +80,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "79CA686D-A745-4CFB-804A-60D0C3B91978",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

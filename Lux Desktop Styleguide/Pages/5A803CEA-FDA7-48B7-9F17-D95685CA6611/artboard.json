@@ -4,7 +4,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "35CF99CB-63AE-4C29-9A7B-C76034F4B82F",
     "green": 1,
     "red": 1
   },
@@ -13,7 +12,6 @@
   "do_objectID": "5A803CEA-FDA7-48B7-9F17-D95685CA6611",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6C64A16C-43E4-426C-A9E7-945BBEEC216C",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -33,30 +31,26 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7096DC41-F031-4488-9146-875F40FCB67F",
     "height": 2286,
     "width": 1440,
-    "x": 33065,
-    "y": -5227
+    "x": 37526,
+    "y": -4910
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "0BB64228-875A-4D65-8AA9-A53937D360F8",
     "gridSize": 20,
     "isEnabled": false,
     "thickGridTimes": 10
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "8B041263-5DC8-44F8-ACD8-287CABDA1E64"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "E5361455-9594-4ECC-8180-1C226FB72C1F",
     "guides": [
       0,
       1351,
@@ -104,14 +98,6 @@
     {
       "class": "symbolInstance",
       "id": "90A555B6-DE39-4A0B-906D-3984A6C0F785"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BA4DD720-DB72-4314-8299-49AE3C8D2829"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CB7CED8F-342F-4E5A-85C3-4BEE1A40DB64"
     },
     {
       "class": "symbolInstance",
@@ -181,7 +167,6 @@
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 75,
-    "do_objectID": "84DD4C42-E435-4FB7-8411-354546B429CD",
     "drawHorizontal": true,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -194,8 +179,11 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 1120
   },
+  "maintainScrollPosition": false,
   "name": "Shipping 2",
   "nameIsFixed": true,
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -203,16 +191,53 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "1DB2E83C-6861-401F-8BEF-10083B27F06C",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "BA840CAD-DBA8-40CB-A2F1-527751B3A52D",
     "guides": [
       -36,
       -232,

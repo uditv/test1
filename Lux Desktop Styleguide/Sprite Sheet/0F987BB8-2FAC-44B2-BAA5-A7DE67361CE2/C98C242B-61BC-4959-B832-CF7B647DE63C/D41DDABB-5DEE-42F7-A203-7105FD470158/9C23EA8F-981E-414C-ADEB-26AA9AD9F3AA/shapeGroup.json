@@ -5,7 +5,6 @@
   "do_objectID": "9C23EA8F-981E-414C-ADEB-26AA9AD9F3AA",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DBA6B6F4-4B8E-415F-8717-4546A17DA024",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "048993E1-35F8-4A00-A272-8FC95AC2A1E4",
     "height": 7.229097826086958,
     "width": 7.229123188405801,
     "x": 3.373188405797332,
     "y": 3.373188405797094
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "9922D14B-EAD8-44C2-8508-F45ED8936AB1"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -44,6 +41,7 @@
       "id": "F513C702-780D-47F4-88AB-9ECF31D9FF69"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Shape",
   "nameIsFixed": false,
   "resizingConstraint": 63,
@@ -52,6 +50,38 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "C3B32384-F2AC-4FD8-B638-764812372D4E",
     "endMarkerType": 0,
     "fills": [
@@ -63,6 +93,11 @@
           "blue": 0.4235294118,
           "green": 0.4235294118,
           "red": 0.4235294118
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
         },
         "fillType": 0,
         "gradient": {
@@ -125,7 +160,11 @@
         "patternTileScale": 1
       }
     ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 0
   },

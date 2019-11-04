@@ -6,6 +6,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -98,12 +107,12 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 22,
+            "constant": 20.30769,
             "enabled": 1,
             "modelID": "constraint_40b04e45-cd01-4867-a17b-c6a3e5dedfd0",
             "model_class": "ADModelConstraint",
             "model_version": 0,
-            "multiplier": 16
+            "multiplier": 14.76923
           },
           "automatic": 1,
           "modelID": "viewConstraints_b21bd916-bee1-40ac-8031-6d7ed72270f6",

@@ -5,7 +5,6 @@
   "do_objectID": "76F62528-8982-4EFC-A108-BA807A478AA9",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A1D1BA5C-D16A-4F3A-8D87-D6EA146FCEC1",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DD45075A-81FB-4A4C-9543-7ECA875B50A1",
     "height": 19.04,
     "width": 30.88571428571428,
     "x": 8.410526315789218,
     "y": 7.611940298507438
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "154F1BE7-7E4B-43DE-BDFA-43F1CAD39717"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -48,6 +45,7 @@
       "id": "CFA72098-32BB-4B66-9669-FC38EA47EBF8"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "mastercard-logo",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -59,16 +57,44 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "D85D42CF-CEB9-4188-98BB-BA4404B55933",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 3.684210526315789,
       "saturation": 1,
       "type": 0
     },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "6E03ACD6-351F-4B79-BA15-41ADD5F57FB7",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

@@ -5,7 +5,6 @@
   "do_objectID": "387611FB-5D20-40B1-AEDF-6C25793F084A",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6ED2220E-D3A0-46F4-B53B-43069BFF18B5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "90973C41-160F-4719-8C78-A78193261860",
     "height": 320,
     "width": 170,
     "x": 160,
@@ -30,30 +28,27 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "m-Paymentoption",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "E8CC5FE4-5B27-4959-8FEA-5FA808353F70",
       "overrideName": "AED711F3-AC51-40D9-9D99-ACF37B33B99C_symbolID",
       "value": "F80EA31F-27E9-4449-AEF9-A36E40A83BD4"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "DAFD42F6-B65F-4A94-8D56-500EFDF96A2A",
       "overrideName": "967B9A03-103F-4373-9F26-8CD6E7419B62_symbolID",
       "value": "4727D15F-D3AA-4FBE-8322-7E150456940F"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "46BF6173-F842-46C7-9919-F2EC4F7270DA",
       "overrideName": "967B9A03-103F-4373-9F26-8CD6E7419B62/3BDB7C43-A9C4-4708-9419-B6566C2FC628_stringValue",
       "value": "Saved Cards"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "D387A916-7A6E-4516-B4AF-CB26C6DDE53E",
       "overrideName": "AED711F3-AC51-40D9-9D99-ACF37B33B99C/E569EBAB-9FD3-4AE9-9FA2-AD33EF32AE80/4FC6DE1B-A0CE-4E52-9305-0E2111F7C5B9_stringValue",
       "value": "Credit Card"
     }
@@ -65,9 +60,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "2A0E66F9-89CC-4F77-AFF5-C269EFD66694",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

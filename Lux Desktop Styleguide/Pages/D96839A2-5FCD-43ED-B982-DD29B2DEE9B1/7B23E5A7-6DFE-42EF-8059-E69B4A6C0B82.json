@@ -5,7 +5,6 @@
   "do_objectID": "7B23E5A7-6DFE-42EF-8059-E69B4A6C0B82",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D7E543F6-C639-4989-BC1C-1E07327F4FF9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "15EA3BB2-56F0-41A5-AF2E-08BDE5A3DB05",
     "height": 320,
     "width": 170,
     "x": 160,
@@ -30,6 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "m-Paymentoption",
   "nameIsFixed": false,
   "overrideValues": [
@@ -55,19 +54,16 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "A4C605D7-EB32-4EF7-8A43-CD80272EA45B",
       "overrideName": "727E2AAD-9FD3-4FBE-9644-D2A90B0C8A0B/3BDB7C43-A9C4-4708-9419-B6566C2FC628_stringValue",
       "value": "Net Banking"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "7498A67F-B806-4B93-8117-A086BEC5DBBF",
       "overrideName": "988E958C-4388-4B89-8212-906C564D9494_symbolID",
       "value": "F80EA31F-27E9-4449-AEF9-A36E40A83BD4"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "0C0D1B22-7631-44D8-B23A-AFBF0A73C2EC",
       "overrideName": "988E958C-4388-4B89-8212-906C564D9494/E569EBAB-9FD3-4AE9-9FA2-AD33EF32AE80/4FC6DE1B-A0CE-4E52-9305-0E2111F7C5B9_stringValue",
       "value": "EMI"
     }
@@ -79,9 +75,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "FC79FA55-231A-4B8B-AC37-87835571FCFF",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

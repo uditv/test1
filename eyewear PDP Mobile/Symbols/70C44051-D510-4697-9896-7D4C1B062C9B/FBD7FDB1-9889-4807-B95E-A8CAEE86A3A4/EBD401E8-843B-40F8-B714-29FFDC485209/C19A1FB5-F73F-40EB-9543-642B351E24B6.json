@@ -14,13 +14,13 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 2,
+  "fixedRadius": 1.428571428571429,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "13B080C3-D6DE-4A28-8D42-DC3DE4E477FB",
-    "height": 96,
-    "width": 84,
+    "height": 66,
+    "width": 60,
     "x": 0,
     "y": 0
   },
@@ -41,7 +41,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 1.428571428571429,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -51,7 +51,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 1.428571428571429,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -61,7 +61,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 1.428571428571429,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -71,7 +71,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 1.428571428571429,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -91,7 +91,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 7.142857142857143,
       "saturation": 1,
       "type": 0
     },

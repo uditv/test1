@@ -24,8 +24,8 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 12,
-            "minimumLineHeight": 12
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           },
           "strikethroughStyle": 0,
           "underlineStyle": 0
@@ -54,8 +54,8 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 12,
-            "minimumLineHeight": 12
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           },
           "strikethroughStyle": 0,
           "underlineStyle": 0
@@ -84,17 +84,17 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 12,
-            "minimumLineHeight": 12
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           },
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 21,
+        "length": 5,
         "location": 33
       }
     ],
-    "string": "10%  off on minimum purchase of ₹2799.0 .  Expires on "
+    "string": "10%  off on minimum purchase of ₹2799."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -113,12 +113,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 182,
-    "x": 10,
-    "y": 34
+    "height": 32,
+    "width": 200,
+    "x": 14,
+    "y": 28
   },
-  "glyphBounds": "{{0, 1}, {169, 24}}",
+  "glyphBounds": "{{0, 3}, {176, 26}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -127,6 +127,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "10% off on minimum p",
   "nameIsFixed": false,
   "resizingConstraint": 47,
@@ -136,8 +137,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "A94B2722-0EA4-4F02-A2A3-1F0E4143AC4E",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -160,8 +200,8 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "maximumLineHeight": 12,
-          "minimumLineHeight": 12
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
         },
         "strikethroughStyle": 0,
         "underlineStyle": 0

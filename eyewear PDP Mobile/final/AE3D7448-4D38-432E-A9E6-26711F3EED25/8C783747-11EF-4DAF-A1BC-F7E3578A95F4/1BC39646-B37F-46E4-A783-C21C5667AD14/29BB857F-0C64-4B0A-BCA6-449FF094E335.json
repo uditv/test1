@@ -24,73 +24,15 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 11,
-            "minimumLineHeight": 11
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           }
         },
-        "length": 31,
+        "length": 109,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2705882352941176,
-            "green": 0.2784313725490196,
-            "red": 0.2862745098039216
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Lato-Bold",
-              "size": 12
-            }
-          },
-          "MSAttributedStringTextTransformAttribute": 1,
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 11,
-            "minimumLineHeight": 11
-          }
-        },
-        "length": 12,
-        "location": 31
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2705882352941176,
-            "green": 0.2784313725490196,
-            "red": 0.2862745098039216
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Lato-Regular",
-              "size": 12
-            }
-          },
-          "MSAttributedStringTextTransformAttribute": 1,
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 11,
-            "minimumLineHeight": 11
-          }
-        },
-        "length": 1,
-        "location": 43
       }
     ],
-    "string": " Sorry, this product just went out of stock."
+    "string": "You were eyeing one of our best sellers and it is currently out of stock. It may or may not be back in stock."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -111,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9A137CA6-7E23-4F06-906F-283EF58444A6",
-    "height": 11,
+    "height": 32,
     "width": 335,
     "x": 0,
-    "y": 26.00000000000006
+    "y": 23.00000000000011
   },
-  "glyphBounds": "{{3, 1}, {241, 12}}",
+  "glyphBounds": "{{0, 4}, {324, 28}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -126,7 +68,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Sorry, this product",
+  "name": "You were eyeing one",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -198,8 +140,8 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "maximumLineHeight": 11,
-          "minimumLineHeight": 11
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
         }
       },
       "verticalAlignment": 0

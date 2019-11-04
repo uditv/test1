@@ -4,7 +4,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "9A2B15C7-DE8B-432D-B20F-707A4CBF2A31",
     "green": 1,
     "red": 1
   },
@@ -13,7 +12,6 @@
   "do_objectID": "ED24A274-44E3-497D-BB5B-D3A12A663705",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "63666D12-4D0F-4083-A940-1E2D23198806",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,15 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "62C38DA2-113C-4D9E-993F-64123E97ECF0",
     "height": 1024,
     "width": 1440,
     "x": -720,
     "y": 547
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "C9EF3195-BEAA-42D2-8839-5AA7B88B5683"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -40,7 +36,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "7ABE7667-3BFB-4091-ABD8-602ECE98572F",
     "guides": [
     ]
   },
@@ -75,6 +70,7 @@
       "id": "74D305B4-39BA-4002-AECD-31E6C4812CE4"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Desktop HD Copy",
   "nameIsFixed": false,
   "presetDictionary": {
@@ -91,16 +87,53 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "189B3DE4-2292-4861-B9D6-979CCFC14B0C",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "906CA7C0-0D45-45B8-A30E-7898623E225F",
     "guides": [
     ]
   }

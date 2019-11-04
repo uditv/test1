@@ -5,7 +5,6 @@
   "do_objectID": "F77E73E1-6339-4B24-863E-012B8D4D2CFC",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4AE3960B-1854-459F-99B5-2CD3AA028E9B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "EBE7822F-0F14-4C1A-8DFF-03697946A94D",
     "height": 10.87970452981859,
     "width": 37.5998999843063,
     "x": 5.371428571428572,
     "y": 12.2402954701814
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "5D754D4E-CA95-4326-A3D7-B21CDC10A446"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -104,6 +101,7 @@
       "id": "0995EA57-AD85-4D3B-905E-C9E2F974E1B3"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "amex-logo",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -115,12 +113,34 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "1F15D70D-B67D-4407-A1F6-8BBBCC0D04D2",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 3.72398860459487,
       "saturation": 1,
       "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
     },
     "do_objectID": "74FEF4C4-07D6-4BE5-B816-B0A1C04B082E",
     "endMarkerType": 0,
@@ -134,7 +154,43 @@
           "green": 1,
           "red": 1
         },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
         "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -142,7 +198,11 @@
         "patternTileScale": 1
       }
     ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

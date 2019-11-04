@@ -5,7 +5,6 @@
   "do_objectID": "9848FA44-C270-49B8-B99D-7967B8F2BB5E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "42AA534E-FFDD-4D70-91C4-18610868856C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2984D2D4-6BDD-47E8-B4DE-B55786BB222D",
     "height": 472,
     "width": 1440,
     "x": 0,
@@ -30,36 +28,32 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "ShopByCatText Copy",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "3B465251-4CDB-4124-9198-67A743773924",
       "overrideName": "7A99BF59-E574-4997-84D7-F2C5F97B0A2A_stringValue",
       "value": "Crossbody bag"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "2FB93142-57FF-47B6-9BD0-7D0612CEF568",
       "overrideName": "74A52D1C-F6B5-416B-B7CB-C39E0288AFDD_stringValue",
       "value": "Evening Bag"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "3310E044-9836-4B3B-BCEA-B82DCDBC3375",
       "overrideName": "7E546F7C-ED57-4BFF-A6AD-CFE07745E7D1_stringValue",
       "value": "Shoulder bag"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "3C14CEE3-2A22-4086-948A-437C33D00B08",
       "overrideName": "95BDA27F-F829-4486-98CF-91E41571551F_stringValue",
       "value": "Tote bag"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "BB0B6F9F-8C57-4C57-9EF7-4D0F6DA96D1A",
       "overrideName": "A99DAA82-A8DD-4A5C-BDF9-8BB29DEDAB29_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -69,7 +63,6 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "83ED1ECD-5A01-40AB-A5CC-AD1194E1FEF7",
       "overrideName": "D3B62F27-0C31-48C3-9F95-4D4DD52A3B81_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -79,13 +72,11 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "34925704-14AC-46CB-927B-5AEB9680CE4D",
       "overrideName": "45709569-66B3-44B0-B9F4-CA511CFC77A7_symbolID",
       "value": ""
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "DDA67CF0-1045-4C55-A592-C5A29117371A",
       "overrideName": "A1D08C60-6C52-4591-9709-1B9CF097F003_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -101,9 +92,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "7FF72AAF-1816-45B4-9646-E68EDFDB9683",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

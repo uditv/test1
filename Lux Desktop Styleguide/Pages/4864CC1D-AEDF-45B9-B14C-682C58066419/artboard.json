@@ -4,7 +4,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "3BB73682-B6E8-4133-97DE-6D347461D46A",
     "green": 1,
     "red": 1
   },
@@ -13,7 +12,6 @@
   "do_objectID": "4864CC1D-AEDF-45B9-B14C-682C58066419",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EA1BA35A-EDBE-451A-94A8-2A9C41F46D0E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,22 +22,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "8B31581B-3B49-4908-A221-D8BACFDB3EF3",
     "height": 1024,
     "width": 1440,
-    "x": 12239,
-    "y": -5227
+    "x": 16700,
+    "y": -4910
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "358140E4-3605-43D7-A4F6-258CB7B86F25",
     "gridSize": 8,
     "isEnabled": false,
     "thickGridTimes": 16
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "CE724ABF-0EB0-4A16-99DF-3DCA0E9A89A5"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -47,7 +42,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "180C0777-79CD-4390-AC15-AC12F01E99AB",
     "guides": [
     ]
   },
@@ -157,7 +151,6 @@
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 75,
-    "do_objectID": "1B281F80-5F0D-4938-AFEF-C4AA553330F8",
     "drawHorizontal": true,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -170,6 +163,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 1120
   },
+  "maintainScrollPosition": false,
   "name": "QUIQ PIQ 2",
   "nameIsFixed": true,
   "presetDictionary": {
@@ -186,16 +180,53 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "056CB9E9-7EE4-47EF-99CF-44F49E4DF3FC",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "3AE2A737-07D2-4B81-BBFD-B82199121AAD",
     "guides": [
     ]
   }
