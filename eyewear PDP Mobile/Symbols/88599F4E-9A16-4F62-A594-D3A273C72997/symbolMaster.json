@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 97,
+  "changeIdentifier": 100,
   "clippingMaskMode": 0,
   "do_objectID": "88599F4E-9A16-4F62-A594-D3A273C72997",
   "exportOptions": {
@@ -73,13 +73,18 @@
     "totalWidth": 333
   },
   "maintainScrollPosition": false,
-  "name": "m/selection/size/apparel",
-  "nameIsFixed": false,
+  "name": "m/selection/size/apparel/without CTA",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "47BF7229-6C2E-496B-8DE7-D2492B7BE093_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7481EA41-645B-4F04-99C8-478E3E438609_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -178,6 +183,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "8484E2F3-A847-4548-B1E5-0E87378D1678",
     "endMarkerType": 0,
     "fills": [
     ],

@@ -5,17 +5,15 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "B7F8BDD4-092B-488C-936D-A7D18014B5C3",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2550,
+  "changeIdentifier": 2552,
   "clippingMaskMode": 0,
   "do_objectID": "E640C5F1-4EF0-44B6-959C-5C9F015959E4",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A676AD25-745A-4EED-B222-C20AD2DE3577",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -26,23 +24,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "55E6569A-FE99-44AF-90A3-3B936F0A3879",
     "height": 320,
     "width": 375,
     "x": 14328,
     "y": 425
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "63698ED3-F002-4950-B6E6-019BC6AD3875"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "CAD0176F-B3B7-4278-BB0E-41BC86CE3B47",
     "guides": [
     ]
   },
@@ -65,7 +60,6 @@
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 50,
-    "do_objectID": "C08C85F1-9D3F-4D40-BC7A-D9ED44B46DEA",
     "drawHorizontal": true,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -73,7 +67,7 @@
     "gutterWidth": 7,
     "guttersOutside": false,
     "horizontalOffset": 20,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 6,
     "rowHeightMultiplication": 1,
     "totalWidth": 335
@@ -86,6 +80,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "6E9BFA9D-5C6F-487E-BFD9-7735617E8F52_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "775249CF-B6B4-48CE-87B7-1303FB72B49F_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -170,7 +169,6 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "3AB7ED53-D0A2-4048-A043-620A07584CE9",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -181,7 +179,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "C7214ACC-55BF-45D2-87CB-E1932C76DC59",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -192,7 +189,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "1D829950-6257-4A1F-8846-E025B2CB4B49",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -200,7 +196,6 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "2AD0AB17-3598-453D-9584-AB3C4E25BBCE",
       "opacity": 1
     },
     "do_objectID": "3F053227-9895-463E-954B-8E51A0932E9B",
@@ -219,7 +214,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "C536BB15-FEC7-498B-A328-DD6592184EE3",
     "guides": [
     ]
   }

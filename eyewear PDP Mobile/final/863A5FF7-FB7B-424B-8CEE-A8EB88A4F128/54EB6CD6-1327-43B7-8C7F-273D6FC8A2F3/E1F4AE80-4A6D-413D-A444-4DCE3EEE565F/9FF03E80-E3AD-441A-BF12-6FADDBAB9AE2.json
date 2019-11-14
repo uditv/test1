@@ -7,6 +7,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -153,6 +162,7 @@
       "blendMode": 0,
       "opacity": 1
     },
+    "do_objectID": "128A9480-32B7-457F-A94E-29E69951DD26",
     "endMarkerType": 0,
     "fills": [
       {
@@ -221,12 +231,12 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 30,
+            "constant": 15,
             "enabled": 1,
             "modelID": "constraint_ca4b9504-3bb7-4d02-8735-80906cb20d70",
             "model_class": "ADModelConstraint",
             "model_version": 0,
-            "multiplier": 30
+            "multiplier": 15
           },
           "automatic": 1,
           "modelID": "viewConstraints_0321d6d2-ff90-4b3a-a950-f00e7a0b46ca",
