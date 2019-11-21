@@ -90,7 +90,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": true,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 20,
       "saturation": 2,
       "type": 3
     },
@@ -109,7 +109,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -124,10 +124,10 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.4,
-          "blue": 0.9764705882352941,
-          "green": 0.9764705882352941,
-          "red": 0.9764705882352941
+          "alpha": 0.8,
+          "blue": 0.9686274509803922,
+          "green": 0.9686274509803922,
+          "red": 0.9686274509803922
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -192,7 +192,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "offsetX": 0,
         "offsetY": 0.5,
         "spread": 0

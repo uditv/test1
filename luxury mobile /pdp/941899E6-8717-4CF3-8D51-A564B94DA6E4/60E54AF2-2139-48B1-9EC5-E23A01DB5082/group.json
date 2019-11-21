@@ -48,6 +48,10 @@
     {
       "class": "group",
       "id": "87FFE6A1-F173-4547-A670-B5557E09FB92"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C43910BF-32BF-4764-A642-67256B9C7D65"
     }
   ],
   "maintainScrollPosition": false,
@@ -160,12 +164,12 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 26,
+            "constant": 74,
             "enabled": 1,
             "modelID": "constraint_6bd6a6f6-387a-44d8-bfc2-c64e55f1578b",
             "model_class": "ADModelConstraint",
             "model_version": 0,
-            "multiplier": 26
+            "multiplier": 75
           },
           "automatic": 1,
           "modelID": "viewConstraints_33724ee0-c1d3-45d1-a3fb-c74661a792f7",
