@@ -22,9 +22,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2319,
+    "height": 1644,
     "width": 375,
-    "x": 4656,
+    "x": 3899,
     "y": 5203
   },
   "groupLayout": {
@@ -63,14 +63,6 @@
     },
     {
       "class": "group",
-      "id": "56F8969A-51F8-4F06-A048-C886AD1B7428"
-    },
-    {
-      "class": "group",
-      "id": "8284A150-65C5-43BE-B688-B39E67A952B1"
-    },
-    {
-      "class": "group",
       "id": "A9905069-B3DC-4421-9421-9C718001778D"
     },
     {
@@ -84,6 +76,10 @@
     {
       "class": "symbolInstance",
       "id": "402ECF11-B8E3-46BF-B96A-2B77D80CA3D9"
+    },
+    {
+      "class": "group",
+      "id": "C12C5170-ED11-4A1D-9FBE-FBFB8DF683B5"
     },
     {
       "class": "symbolInstance",
@@ -123,18 +119,6 @@
     },
     {
       "class": "group",
-      "id": "629219AF-2AF1-49D9-9469-28368353DD5C"
-    },
-    {
-      "class": "group",
-      "id": "27F53F68-7914-4F88-B5A2-70EFC416E3B7"
-    },
-    {
-      "class": "group",
-      "id": "B3E36ECB-6FAF-4F1C-90E0-EB60F4662DE2"
-    },
-    {
-      "class": "group",
       "id": "45595A56-4E01-448F-B720-90CB24AD211C"
     },
     {
@@ -168,10 +152,6 @@
     {
       "class": "group",
       "id": "C57F3CB5-0777-4064-988D-172CC0E99A25"
-    },
-    {
-      "class": "group",
-      "id": "E54B99CA-D48D-4F02-869A-1ABB10683674"
     }
   ],
   "layout": {
@@ -184,13 +164,13 @@
     "gutterWidth": 9,
     "guttersOutside": false,
     "horizontalOffset": 21,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 6,
     "rowHeightMultiplication": 1,
     "totalWidth": 333
   },
   "maintainScrollPosition": false,
-  "name": "PLP IOS Copy",
+  "name": "subcategory component",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
