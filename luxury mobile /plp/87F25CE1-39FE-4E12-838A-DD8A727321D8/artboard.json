@@ -24,14 +24,14 @@
     "constrainProportions": false,
     "height": 1421,
     "width": 375,
-    "x": 4352,
+    "x": 4324,
     "y": 5203
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -83,10 +83,6 @@
     },
     {
       "class": "group",
-      "id": "D3AB410B-6F1C-4FC4-8911-1A9299CB140C"
-    },
-    {
-      "class": "group",
       "id": "F231FC44-9045-4E23-BCA8-EB6B0D91CA5E"
     },
     {
@@ -122,10 +118,6 @@
       "id": "14A73168-C3E9-4EBA-B69D-36EAF9EA466C"
     },
     {
-      "class": "symbolInstance",
-      "id": "D4E141EC-F20C-4DDB-A91B-70242392FB10"
-    },
-    {
       "class": "group",
       "id": "5A0153FA-C62E-48D0-BFA5-F1B18E7BDCA6"
     },
@@ -140,6 +132,14 @@
     {
       "class": "bitmap",
       "id": "09F36029-2D07-4FF7-B1B0-D2C345CE680E"
+    },
+    {
+      "class": "group",
+      "id": "BE3BCBF0-5944-400C-B1AE-4E22A31CB8E8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FBF734C0-B702-4165-B0FD-21F8D9C757DC"
     }
   ],
   "layout": {
@@ -162,8 +162,8 @@
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
-    "height": 667,
-    "name": "iPhone 8",
+    "height": 812,
+    "name": "iPhone 11 Pro",
     "offersLandscapeVariant": 1,
     "width": 375
   },
