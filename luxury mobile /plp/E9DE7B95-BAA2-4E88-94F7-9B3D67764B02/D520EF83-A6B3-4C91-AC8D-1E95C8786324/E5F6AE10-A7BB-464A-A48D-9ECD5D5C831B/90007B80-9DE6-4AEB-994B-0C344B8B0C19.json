@@ -23,15 +23,17 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 2,
+            "maximumLineHeight": 12,
+            "minimumLineHeight": 12
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Coral"
+    "string": "Raspberry"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 28,
-    "x": 32,
-    "y": 13.8125
+    "height": 12,
+    "width": 53,
+    "x": 17,
+    "y": 13
   },
-  "glyphBounds": "{{0, 3}, {27, 10}}",
+  "glyphBounds": "{{1, 2}, {51, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Coral",
+  "name": "Raspberry",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -135,7 +137,9 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 2,
+          "maximumLineHeight": 12,
+          "minimumLineHeight": 12
         },
         "textStyleVerticalAlignmentKey": 0
       },

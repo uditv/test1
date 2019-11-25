@@ -7,6 +7,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -16,9 +25,9 @@
   "fixedRadius": 1,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 44,
-    "width": 92,
+    "constrainProportions": false,
+    "height": 38,
+    "width": 75.99999999999997,
     "x": 0,
     "y": 0
   },

@@ -1,8 +1,9 @@
 {
-  "_class": "group",
-  "booleanOperation": 0,
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "18BC9096-6017-4C18-A8BC-2105E1A24E42",
+  "do_objectID": "DA7E5C62-A02C-4EDF-8754-D291EC7746B6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,38 +13,31 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 36,
-    "width": 162,
-    "x": 111,
-    "y": 1496
+    "constrainProportions": true,
+    "height": 439,
+    "width": 570,
+    "x": 8253,
+    "y": 5955
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/9e8c99b50d6e1a3374e8601c9186aeb06ecdadfe.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "rectangle",
-      "id": "9816CE38-49D4-4A35-84C3-90F520AE1772"
-    },
-    {
-      "class": "group",
-      "id": "5FAD992F-57DE-40E4-A604-171168EFE7A6"
-    }
-  ],
+  "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Group 9 Copy",
-  "nameIsFixed": true,
+  "name": "Screenshot 2019-11-25 at 2.50.15 PM",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -82,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "98C851B2-C1D1-4EA4-AA39-D3812C3649D0",
+    "do_objectID": "6609655A-CD46-40CA-B1AE-957A70F128AA",
     "endMarkerType": 0,
     "fills": [
     ],
