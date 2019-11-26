@@ -1,9 +1,8 @@
 {
-  "_class": "bitmap",
-  "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "DA7E5C62-A02C-4EDF-8754-D291EC7746B6",
+  "do_objectID": "31799CA5-288A-4A25-9438-4EECC12BB69F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,22 +12,16 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 439,
-    "width": 570,
-    "x": 8253,
-    "y": 5955
+    "constrainProportions": false,
+    "height": 44,
+    "width": 248,
+    "x": 8268,
+    "y": 5564
   },
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/9e8c99b50d6e1a3374e8601c9186aeb06ecdadfe.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 144,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -36,11 +29,19 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Screenshot 2019-11-25 at 2.50.15 PM",
+  "name": "Menu Result Cell",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "53D89168-B69C-45E4-9FF3-BEDC475F0746_stringValue",
+      "value": "Heels"
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -76,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "6609655A-CD46-40CA-B1AE-957A70F128AA",
+    "do_objectID": "1D22EF24-09D0-4B0E-A2A4-734849F543EB",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,5 +88,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "03833DCA-C9C9-4546-A7D6-CFABEEBD5D04",
+  "verticalSpacing": 0
 }
