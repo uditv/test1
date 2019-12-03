@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Lato-Medium",
+              "name": "Lato-Regular",
               "size": 12
             }
           },
@@ -25,8 +25,8 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 18,
-            "minimumLineHeight": 18
+            "maximumLineHeight": 12,
+            "minimumLineHeight": 12
           }
         },
         "length": 14,
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
+    "height": 12,
     "width": 104,
     "x": 20,
-    "y": 15
+    "y": 18
   },
-  "glyphBounds": "{{0, 0}, {104, 17}}",
+  "glyphBounds": "{{0, 2}, {103, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -131,7 +131,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Lato-Medium",
+            "name": "Lato-Regular",
             "size": 12
           }
         },
@@ -140,8 +140,8 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "maximumLineHeight": 18,
-          "minimumLineHeight": 18
+          "maximumLineHeight": 12,
+          "minimumLineHeight": 12
         }
       },
       "verticalAlignment": 0

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 8,
+  "changeIdentifier": 709,
   "clippingMaskMode": 0,
   "do_objectID": "C08CBFF3-1E00-4E50-BCC5-F65203F438B8",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,17 +50,72 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "F678F1B3-5DF1-491B-ADBE-ADD751047A3A"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 22.83333333333333,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 4,
+    "gutterWidth": 5,
+    "guttersOutside": false,
+    "horizontalOffset": 21,
+    "isEnabled": true,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 162
+  },
   "maintainScrollPosition": false,
-  "name": "plp text",
-  "nameIsFixed": false,
+  "name": "m/plptext/onsale",
+  "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "889A7298-DB81-4E13-8BB1-2FCF52012A9D_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0E9ED7A4-B2DA-43CE-83C8-34D6DBFACBCB_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3F536124-7EAC-4248-BA4E-C2EC43ABE3D5_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0D329925-5E10-41FA-B78F-4D099CE24780_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "533821C7-191F-4685-859F-74F4A75F0FA9_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6D14F2AE-2A79-4A7B-806D-5085D0793AF1_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "152C3D0D-CDE0-4688-B376-F3DC1E529896_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6FD6769B-12FC-44A3-A4AA-700E9E5A77CD_stringValue"
+    }
   ],
   "presetDictionary": {
   },
