@@ -1,11 +1,20 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BFF675BA-FBAB-4C35-B27F-F5C4C1DF8659",
+  "do_objectID": "49FAA21C-843A-4C4C-BA2B-F694E1530394",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -15,28 +24,38 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 249,
-    "x": 126,
-    "y": 176
+    "height": 12,
+    "width": 12,
+    "x": 216,
+    "y": 16
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "maintainScrollPosition": false,
-  "name": "a/spacer copy 6",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "646F3266-DC78-4E59-B275-353537F11FA0"
+    },
+    {
+      "class": "shapePath",
+      "id": "1C6E9C41-7BE2-4513-B2B9-4AC9C885DBF7"
+    }
   ],
+  "maintainScrollPosition": false,
+  "name": "checkbox_selected",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -45,7 +64,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 5.454545454545454,
       "saturation": 1,
       "type": 0
     },
@@ -72,7 +91,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "BBB98B1C-98C9-449E-B88C-B6DB8287296A",
+    "do_objectID": "F6188AA5-E77E-4574-9322-056E773A012C",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,7 +102,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "9EA07902-A2F7-43EF-ADE8-87FF22F62EF8",
-  "verticalSpacing": 0
+  }
 }
