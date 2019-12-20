@@ -134,10 +134,6 @@
       "id": "4210519A-04B3-41B0-8820-E76AACC48A4C"
     },
     {
-      "class": "symbolInstance",
-      "id": "7615F50E-398C-47BD-9DE7-AF52C11401BB"
-    },
-    {
       "class": "group",
       "id": "2B2FA139-AFC7-4902-93F5-F2C1C88FFABA"
     },
@@ -176,6 +172,10 @@
     {
       "class": "rectangle",
       "id": "A8C4E2DC-8393-4E49-B88C-744C1A0A3D8D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7615F50E-398C-47BD-9DE7-AF52C11401BB"
     }
   ],
   "layout": {
@@ -188,7 +188,7 @@
     "gutterWidth": 9,
     "guttersOutside": false,
     "horizontalOffset": 21,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 6,
     "rowHeightMultiplication": 1,
     "totalWidth": 333
@@ -198,8 +198,8 @@
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
-    "height": 812,
-    "name": "iPhone 11 Pro",
+    "height": 667,
+    "name": "iPhone 8",
     "offersLandscapeVariant": 1,
     "width": 375
   },

@@ -6,6 +6,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 1000,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3.003003003003003,
+        "visibleScaleType": 1
+      }
     ],
     "includedLayerIds": [
     ],
@@ -15,7 +24,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 160,
+    "height": 236,
     "width": 333,
     "x": 21,
     "y": 108
@@ -35,6 +44,10 @@
     {
       "class": "rectangle",
       "id": "118B4D09-024F-4183-85BB-C34CBACA4544"
+    },
+    {
+      "class": "bitmap",
+      "id": "C741330A-4D6B-4353-A33E-81DEA90C3455"
     }
   ],
   "maintainScrollPosition": false,
