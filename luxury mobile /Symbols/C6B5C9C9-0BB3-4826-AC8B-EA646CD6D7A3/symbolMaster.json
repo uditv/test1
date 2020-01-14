@@ -1,5 +1,6 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 667,
   "clippingMaskMode": 0,
-  "do_objectID": "5FF771F4-1440-4667-A7BE-4BD95DD5937C",
+  "do_objectID": "C6B5C9C9-0BB3-4826-AC8B-EA646CD6D7A3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,16 +24,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 812,
-    "width": 375,
-    "x": 4919,
-    "y": 3293
+    "height": 58,
+    "width": 270,
+    "x": 4173,
+    "y": -20
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -40,6 +42,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -47,73 +50,59 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
-      "id": "A9609137-3622-4F55-A6AE-4762BD65D888"
-    },
-    {
-      "class": "group",
-      "id": "8AE39E90-2584-4862-A023-2AA5A52D2622"
-    },
-    {
-      "class": "group",
-      "id": "516C7899-9DB0-416D-A347-2C5E1204222B"
-    },
-    {
-      "class": "group",
-      "id": "EC738073-7710-494E-B112-26A4AAD64F5D"
-    },
-    {
-      "class": "group",
-      "id": "8747D86C-5112-4ABD-9032-82B5195888C9"
-    },
-    {
-      "class": "group",
-      "id": "CBCA9182-C7F2-46B8-8828-82108349365D"
-    },
-    {
-      "class": "rectangle",
-      "id": "11D6D191-CEFF-4C59-ACDC-BF2E3C02E598"
-    },
-    {
-      "class": "text",
-      "id": "E85E8704-7163-41A8-96CC-2DECF85882C2"
-    },
-    {
-      "class": "group",
-      "id": "2687F75D-B118-4430-B3FA-FE5B0C26A563"
-    },
-    {
-      "class": "group",
-      "id": "939C8F8F-DBC9-494B-89B7-AE6AA5E2E7D7"
+      "id": "4C74CC14-3FC6-4612-B2D4-CDA60277AF81"
     }
   ],
-  "layout": {
-    "_class": "layoutGrid",
-    "columnWidth": 47.5,
-    "drawHorizontal": true,
-    "drawHorizontalLines": false,
-    "drawVertical": true,
-    "gutterHeight": 4,
-    "gutterWidth": 10,
-    "guttersOutside": false,
-    "horizontalOffset": 20,
-    "isEnabled": false,
-    "numberOfColumns": 6,
-    "rowHeightMultiplication": 1,
-    "totalWidth": 335
-  },
   "maintainScrollPosition": false,
-  "name": "shoe pdp copy 3",
+  "name": "9. Alerts / Large / Success",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3406CA29-86E4-4FA0-9DD7-62AA2FEEBC43_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1C66F13A-04E3-44CE-A1F1-561A776611E0_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1F908201-8D1C-435A-A36A-1A247B4A73FD_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "763CE952-9F04-43A0-B3A8-247DBE8F7ED4_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3406CA29-86E4-4FA0-9DD7-62AA2FEEBC43_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A34FDD87-D963-43AD-8CA6-A3D9E395BF25_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A34FDD87-D963-43AD-8CA6-A3D9E395BF25_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1F908201-8D1C-435A-A36A-1A247B4A73FD_textStyle"
+    }
+  ],
   "presetDictionary": {
-    "allowResizedMatching": 1,
-    "height": 812,
-    "name": "iPhone XS",
-    "offersLandscapeVariant": 1,
-    "width": 375
   },
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -154,7 +143,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "5CA83C25-C822-4309-B83C-02C82EDD3091",
+    "do_objectID": "36E08A26-E9AD-4441-A259-E3EFB25E325A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -166,6 +155,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "1BDF4C46-EB63-4166-AB01-7AD9C5FB361C",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
