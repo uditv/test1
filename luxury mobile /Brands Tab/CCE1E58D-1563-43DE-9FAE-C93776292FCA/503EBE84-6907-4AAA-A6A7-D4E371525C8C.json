@@ -9,37 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.09019607843137255,
-            "green": 0.1019607843137255,
-            "red": 0.1098039215686274
+            "blue": 0.4509803921568628,
+            "green": 0.4588235294117647,
+            "red": 0.4627450980392157
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Lato-Regular",
-              "size": 14
+              "name": "Lato-Light",
+              "size": 11
             }
           },
-          "MSAttributedStringTextTransformAttribute": 1,
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 12,
-            "minimumLineHeight": 12
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 7,
+        "length": 46,
         "location": 0
       }
     ],
-    "string": "On Sale"
+    "string": "Clothing, Footwear, Wallets, Bags, Accessories"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B2F8D958-9054-421B-95DE-D12585D2B416",
+  "do_objectID": "503EBE84-6907-4AAA-A6A7-D4E371525C8C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
-    "width": 58,
+    "height": 32,
+    "width": 171,
     "x": 183,
-    "y": 353
+    "y": 476
   },
-  "glyphBounds": "{{0, 0}, {58, 12}}",
+  "glyphBounds": "{{0, 3}, {162, 26}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "On Sale",
+  "name": "Clothing, Footwear,",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -108,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2C10914C-CFB3-42D6-84EF-9FABA796DB02",
+    "do_objectID": "9E8A14AD-2736-4E1B-916C-74EDF2268511",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -124,24 +123,23 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.09019607843137255,
-          "green": 0.1019607843137255,
-          "red": 0.1098039215686274
+          "blue": 0.4509803921568628,
+          "green": 0.4588235294117647,
+          "red": 0.4627450980392157
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Lato-Regular",
-            "size": 14
+            "name": "Lato-Light",
+            "size": 11
           }
         },
-        "MSAttributedStringTextTransformAttribute": 1,
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "maximumLineHeight": 12,
-          "minimumLineHeight": 12
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -149,5 +147,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

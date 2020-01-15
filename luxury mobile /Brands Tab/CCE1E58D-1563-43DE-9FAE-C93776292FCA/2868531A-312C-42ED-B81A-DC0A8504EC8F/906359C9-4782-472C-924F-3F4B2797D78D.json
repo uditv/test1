@@ -13,11 +13,11 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
+  "fixedRadius": 2,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 76,
+    "height": 92,
     "width": 136,
     "x": 0,
     "y": 0
@@ -39,7 +39,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 2,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -49,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 2,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -59,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 2,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -69,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 2,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -183,11 +183,11 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "fillType": 0,
+        "fillType": 1,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
-          "from": "{0.5, 0}",
+          "from": "{0.38712230928631852, 0}",
           "gradientType": 0,
           "stops": [
             {
@@ -195,8 +195,8 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 1,
-                "green": 1,
+                "blue": 0.9144817073170731,
+                "green": 0.9599133003048781,
                 "red": 1
               },
               "position": 0
@@ -206,14 +206,14 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0,
-                "green": 0,
-                "red": 0
+                "blue": 0.8678513053281858,
+                "green": 0.914271707232757,
+                "red": 0.9587579257246377
               },
               "position": 1
             }
           ],
-          "to": "{0.5, 1}"
+          "to": "{0.51555919196568034, 1.0267596659327429}"
         },
         "isEnabled": true,
         "noiseIndex": 0,

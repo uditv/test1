@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "ABD32CA2-2690-4F5F-AB14-535B1B505AC7",
+  "do_objectID": "404ECA30-0FDB-4F7B-B99C-9C7D163D5D04",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -13,16 +13,16 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
+  "fixedRadius": 2,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 76,
+    "height": 92,
     "width": 136,
-    "x": 21,
-    "y": 215
+    "x": 0,
+    "y": 0
   },
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "hasConvertedToNewRoundCorners": true,
   "isClosed": true,
   "isFixedToViewport": false,
@@ -32,14 +32,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Rectangle",
+  "name": "Mask",
   "nameIsFixed": false,
   "needsConvertionToNewRoundCorners": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 2,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -49,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 2,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -59,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 2,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -69,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 2,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -148,7 +148,7 @@
           ],
           "to": "{0.5, 1}"
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 1
       }
@@ -166,7 +166,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "92E8FCC2-BEA8-4C10-8E90-D41B7A554970",
+    "do_objectID": "C049911D-B8AE-4BA6-9E37-B3A785B5DA4F",
     "endMarkerType": 0,
     "fills": [
       {
