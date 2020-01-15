@@ -1,8 +1,8 @@
 {
-  "_class": "page",
-  "booleanOperation": -1,
+  "_class": "group",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "8FD4FE39-2F53-43F7-801D-F87921D05D9F",
+  "do_objectID": "9837B182-8887-4908-8F07-114D9E2DFC5A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,24 +14,17 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "constrainProportions": true,
+    "height": 23,
+    "width": 119,
+    "x": 128,
+    "y": 9
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -606,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,48 +33,21 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "C3105E9A-F713-451D-B7FE-35380F54B27F"
+      "class": "shapePath",
+      "id": "14EC9107-D0D8-4AF3-887D-2CD133FC1B80"
     },
     {
-      "class": "artboard",
-      "id": "CCE1E58D-1563-43DE-9FAE-C93776292FCA"
-    },
-    {
-      "class": "artboard",
-      "id": "4B52865C-2CBD-40E1-BF83-79999B2B481C"
-    },
-    {
-      "class": "artboard",
-      "id": "B4C100B7-4DCB-4CEA-B15D-CB1F0C1F2DFD"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B9AA7FBB-33E8-429C-B656-A8C842149CEF"
+      "class": "shapeGroup",
+      "id": "C1AD93C0-7A7C-4282-A743-F9AC79A92CA1"
     },
     {
       "class": "group",
-      "id": "94654178-77A1-4DBE-8587-367C7C558177"
+      "id": "F770C9FA-A9C4-414B-8476-00F11076B92E"
     }
   ],
-  "layout": {
-    "_class": "layoutGrid",
-    "columnWidth": 48,
-    "drawHorizontal": true,
-    "drawHorizontalLines": false,
-    "drawVertical": true,
-    "gutterHeight": 4,
-    "gutterWidth": 9,
-    "guttersOutside": false,
-    "horizontalOffset": 21,
-    "isEnabled": true,
-    "numberOfColumns": 6,
-    "rowHeightMultiplication": 1,
-    "totalWidth": 333
-  },
   "maintainScrollPosition": false,
-  "name": "Brands Tab",
-  "nameIsFixed": true,
+  "name": "TATA CLiQ_Logo_Black",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -93,7 +59,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 8,
       "saturation": 1,
       "type": 0
     },
@@ -112,7 +78,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -120,7 +86,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "D36E6E46-77FE-4E76-96C5-3CE1D90B0E86",
+    "do_objectID": "AF12AF34-0D22-4953-AA6F-7ABE752B16B5",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -132,10 +98,25 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -497,
-    "guides": [
-    ]
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 28,
+            "enabled": 1,
+            "modelID": "constraint_50f770a3-49c0-43d1-ad75-7e5a66904e56",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 149
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_d34fa59b-3bb7-424d-9f27-dc873962e336",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
   }
 }

@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8FD4FE39-2F53-43F7-801D-F87921D05D9F",
+  "do_objectID": "74201291-1606-48B4-89BA-1F710CD2E207",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,23 +15,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 18,
+    "width": 204,
+    "x": 86,
+    "y": 99
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -606,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,48 +33,17 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "C3105E9A-F713-451D-B7FE-35380F54B27F"
-    },
-    {
-      "class": "artboard",
-      "id": "CCE1E58D-1563-43DE-9FAE-C93776292FCA"
-    },
-    {
-      "class": "artboard",
-      "id": "4B52865C-2CBD-40E1-BF83-79999B2B481C"
-    },
-    {
-      "class": "artboard",
-      "id": "B4C100B7-4DCB-4CEA-B15D-CB1F0C1F2DFD"
-    },
-    {
       "class": "symbolInstance",
-      "id": "B9AA7FBB-33E8-429C-B656-A8C842149CEF"
+      "id": "488C766F-491C-4258-96BB-F81BA3466800"
     },
     {
-      "class": "group",
-      "id": "94654178-77A1-4DBE-8587-367C7C558177"
+      "class": "text",
+      "id": "0965CACA-7FD3-40D3-A67D-F35FB0E5FCB9"
     }
   ],
-  "layout": {
-    "_class": "layoutGrid",
-    "columnWidth": 48,
-    "drawHorizontal": true,
-    "drawHorizontalLines": false,
-    "drawVertical": true,
-    "gutterHeight": 4,
-    "gutterWidth": 9,
-    "guttersOutside": false,
-    "horizontalOffset": 21,
-    "isEnabled": true,
-    "numberOfColumns": 6,
-    "rowHeightMultiplication": 1,
-    "totalWidth": 333
-  },
   "maintainScrollPosition": false,
-  "name": "Brands Tab",
-  "nameIsFixed": true,
+  "name": "Group",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -120,7 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "D36E6E46-77FE-4E76-96C5-3CE1D90B0E86",
+    "do_objectID": "A845888B-99AE-4400-B268-D19A6288E030",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -131,11 +93,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -497,
-    "guides": [
-    ]
   }
 }
