@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "ABD32CA2-2690-4F5F-AB14-535B1B505AC7",
+  "do_objectID": "07C0E840-CC71-43CB-AC37-8BB2CEEF75A3",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -166,7 +166,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "92E8FCC2-BEA8-4C10-8E90-D41B7A554970",
+    "do_objectID": "92B418CD-4EAA-4889-9FAB-D0F5BE6EA658",
     "endMarkerType": 0,
     "fills": [
       {
@@ -174,30 +174,30 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8340500314819725,
-          "green": 0.8980032766105515,
-          "red": 0.9619565217391305
+          "blue": 0.9803921568627451,
+          "green": 0.9803921568627451,
+          "red": 0.9803921568627451
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
           "blendMode": 0,
           "opacity": 1
         },
-        "fillType": 1,
+        "fillType": 0,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
-          "from": "{0.2495457821770124, 0.084214499430031786}",
+          "from": "{0.5, 0}",
           "gradientType": 0,
           "stops": [
             {
               "_class": "gradientStop",
               "color": {
                 "_class": "color",
-                "alpha": 0.5,
-                "blue": 0.9100747710868805,
-                "green": 0.9100747710868805,
-                "red": 0.9930083786231884
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
               },
               "position": 0
             },
@@ -205,17 +205,17 @@
               "_class": "gradientStop",
               "color": {
                 "_class": "color",
-                "alpha": 0.5,
-                "blue": 0.788235294117647,
-                "green": 0.8745098039215686,
-                "red": 0.9490196078431372
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
               },
               "position": 1
             }
           ],
-          "to": "{0.72822331480444991, 1.0000000000000009}"
+          "to": "{0.5, 1}"
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

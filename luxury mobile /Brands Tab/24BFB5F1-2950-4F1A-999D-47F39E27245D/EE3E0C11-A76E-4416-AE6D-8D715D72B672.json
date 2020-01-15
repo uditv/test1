@@ -9,37 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.09019607843137255,
-            "green": 0.1019607843137255,
-            "red": 0.1098039215686274
+            "blue": 0.4509803921568628,
+            "green": 0.4588235294117647,
+            "red": 0.4627450980392157
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Lato-Regular",
-              "size": 14
+              "name": "Lato-Light",
+              "size": 11
             }
           },
-          "MSAttributedStringTextTransformAttribute": 1,
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 12,
-            "minimumLineHeight": 12
+            "maximumLineHeight": 14,
+            "minimumLineHeight": 14
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 52,
         "location": 0
       }
     ],
-    "string": "Women"
+    "string": "Clothing, Footwear, Jewellery, Handbags, Accessories"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DC5F8C20-9743-431C-9A47-5AEBCA86CCA1",
+  "do_objectID": "EE3E0C11-A76E-4416-AE6D-8D715D72B672",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
-    "width": 58,
+    "height": 28,
+    "width": 148,
     "x": 183,
-    "y": 565
+    "y": 568
   },
-  "glyphBounds": "{{0, 0}, {57, 12}}",
+  "glyphBounds": "{{0, 2}, {143, 26}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Women Copy",
+  "name": "Clothing, Footwear,",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -108,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "E1BC6D5F-E9C7-4A7F-8356-9EA2495C05B8",
+    "do_objectID": "BB6DAED7-CFCD-4822-BDC8-46B100390E14",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -124,24 +123,23 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.09019607843137255,
-          "green": 0.1019607843137255,
-          "red": 0.1098039215686274
+          "blue": 0.4509803921568628,
+          "green": 0.4588235294117647,
+          "red": 0.4627450980392157
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Lato-Regular",
-            "size": 14
+            "name": "Lato-Light",
+            "size": 11
           }
         },
-        "MSAttributedStringTextTransformAttribute": 1,
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "maximumLineHeight": 12,
-          "minimumLineHeight": 12
+          "maximumLineHeight": 14,
+          "minimumLineHeight": 14
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -149,5 +147,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

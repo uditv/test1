@@ -9,36 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4509803921568628,
-            "green": 0.4588235294117647,
-            "red": 0.4627450980392157
+            "blue": 0.3647058823529412,
+            "green": 0.3725490196078431,
+            "red": 0.3764705882352941
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Lato-Light",
-              "size": 11
+              "size": 12
             }
           },
-          "kerning": 0,
+          "kerning": 0.144,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
+            "alignment": 2,
+            "maximumLineHeight": 12,
+            "minimumLineHeight": 12
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 50,
+        "length": 32,
         "location": 0
       }
     ],
-    "string": "Accessories, Bags, Shoes, Clothing, Home, Footwear"
+    "string": "Search Products, Brands, Colours"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A0EA4516-8388-42CC-BB77-8D4CEB239970",
+  "do_objectID": "C7C73F13-6CCC-4603-B64C-F6C6A4CF7D37",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 171,
-    "x": 183,
-    "y": 368
+    "height": 12,
+    "width": 176,
+    "x": 28,
+    "y": 3
   },
-  "glyphBounds": "{{0, 3}, {165, 27}}",
+  "glyphBounds": "{{0, 2}, {175, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Accessories, Bags, S",
+  "name": "Search Products, Bra",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -107,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "5FF0A605-2481-4401-8FD6-0F6F229142C3",
+    "do_objectID": "D0CA152A-B0EE-46B8-9884-1A46D571DCFD",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -123,23 +123,23 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4509803921568628,
-          "green": 0.4588235294117647,
-          "red": 0.4627450980392157
+          "blue": 0.3647058823529412,
+          "green": 0.3725490196078431,
+          "red": 0.3764705882352941
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Lato-Light",
-            "size": 11
+            "size": 12
           }
         },
-        "kerning": 0,
+        "kerning": 0.144,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
+          "alignment": 2,
+          "maximumLineHeight": 12,
+          "minimumLineHeight": 12
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -147,5 +147,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }
