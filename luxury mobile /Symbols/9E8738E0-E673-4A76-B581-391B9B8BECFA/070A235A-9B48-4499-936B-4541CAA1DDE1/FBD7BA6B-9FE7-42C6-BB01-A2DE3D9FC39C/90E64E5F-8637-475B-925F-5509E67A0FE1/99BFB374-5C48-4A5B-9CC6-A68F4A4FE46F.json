@@ -16,26 +16,28 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Lato-Medium",
-              "size": 15
+              "name": "Lato-Regular",
+              "size": 13
             }
           },
-          "kerning": -0.3,
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
-          }
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 29,
         "location": 0
       }
     ],
-    "string": "9:41"
+    "string": "This is a information message"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "924C7A71-C8C2-442C-AB71-A7F318EC328D",
+  "do_objectID": "99BFB374-5C48-4A5B-9CC6-A68F4A4FE46F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
-    "width": 54,
+    "height": 16,
+    "width": 168,
     "x": 0,
-    "y": 5.329999923706055
+    "y": 23
   },
-  "glyphBounds": "{{0, 4}, {28, 12}}",
+  "glyphBounds": "{{0, 3}, {168, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,9 +66,9 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "↳ Time",
-  "nameIsFixed": true,
-  "resizingConstraint": 42,
+  "name": "This is a informatio",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -104,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "7BC9C2FE-365C-4B59-85DB-C22E85E48814",
+    "do_objectID": "B557FF5F-6387-4A92-9981-F571E5D89BEA",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -127,19 +129,21 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Lato-Medium",
-            "size": 15
+            "name": "Lato-Regular",
+            "size": 13
           }
         },
-        "kerning": -0.3,
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
-        }
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

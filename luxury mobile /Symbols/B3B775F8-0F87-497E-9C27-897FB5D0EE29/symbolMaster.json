@@ -4,14 +4,14 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0,
-    "green": 0,
-    "red": 0
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
-  "booleanOperation": 0,
-  "changeIdentifier": 831,
+  "booleanOperation": -1,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "A2E9F399-6CC4-49B3-A5C1-2E65C2573A01",
+  "do_objectID": "B3B775F8-0F87-497E-9C27-897FB5D0EE29",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,15 +24,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 21,
-    "width": 54,
-    "x": 1481,
-    "y": -20
+    "height": 70,
+    "width": 346,
+    "x": 11686,
+    "y": -144
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -41,7 +41,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
@@ -53,19 +53,14 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "924C7A71-C8C2-442C-AB71-A7F318EC328D"
+      "class": "group",
+      "id": "999D3DD4-5928-47F1-8DEF-DB1041766179"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Bars / Status Bar / iPhone / x / Time - On Dark",
-  "nameIsFixed": true,
+  "name": "Error Notification",
+  "nameIsFixed": false,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "924C7A71-C8C2-442C-AB71-A7F318EC328D_stringValue"
-    }
   ],
   "presetDictionary": {
   },
@@ -108,61 +103,9 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "AD35FF53-12AD-4B5E-ADC3-9D5620AB93CF",
+    "do_objectID": "893BE6F7-9F15-41E3-B65B-F01C5EB1D133",
     "endMarkerType": 0,
     "fills": [
-      {
-        "_class": "fill",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "fillType": 0,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.5, 0}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 1,
-                "green": 1,
-                "red": 1
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0,
-                "green": 0,
-                "red": 0
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.5, 1}"
-        },
-        "isEnabled": true,
-        "noiseIndex": 0,
-        "noiseIntensity": 0,
-        "patternFillType": 1,
-        "patternTileScale": 1
-      }
     ],
     "innerShadows": [
     ],
@@ -172,7 +115,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "BFFA2C7E-24D8-425C-A52C-3204668CE4D8",
+  "symbolID": "9FF79E87-6AD8-43EC-92E7-4C5E87983989",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
