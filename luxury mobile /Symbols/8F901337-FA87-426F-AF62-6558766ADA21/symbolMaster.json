@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 244,
   "clippingMaskMode": 0,
   "do_objectID": "8F901337-FA87-426F-AF62-6558766ADA21",
   "exportOptions": {
@@ -24,9 +24,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 64,
-    "x": 12132,
+    "height": 52,
+    "width": 162,
+    "x": 12083,
     "y": -144
   },
   "groupLayout": {
@@ -55,12 +55,26 @@
     {
       "class": "group",
       "id": "D8394BAF-3272-4A46-8418-F46F737C9548"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E5A55869-FC44-40C9-B6CF-3C8692A752BD"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "a-tab/active/14px",
-  "nameIsFixed": false,
+  "name": "a/tab/active/14px",
+  "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D89923F8-4D26-4541-8ED3-01CA40B1F776_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E5A55869-FC44-40C9-B6CF-3C8692A752BD_symbolID"
+    }
   ],
   "presetDictionary": {
   },

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 272,
   "clippingMaskMode": 0,
   "do_objectID": "20194D35-223E-4E67-8386-A87312DCF407",
   "exportOptions": {
@@ -50,17 +50,35 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "A56B880C-CEA6-4796-9054-28AFD227FB0A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "43985DE5-E0F6-44AC-A3D2-AA786E9ACA1A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1047F0EF-3817-4617-AC74-C28AE0640913"
     }
   ],
   "maintainScrollPosition": false,
   "name": "m/tab bar/two tabs",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "43985DE5-E0F6-44AC-A3D2-AA786E9ACA1A_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1047F0EF-3817-4617-AC74-C28AE0640913_symbolID"
+    }
   ],
   "presetDictionary": {
   },

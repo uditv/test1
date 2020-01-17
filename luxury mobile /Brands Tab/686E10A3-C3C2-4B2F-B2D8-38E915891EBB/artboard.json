@@ -1,8 +1,15 @@
 {
-  "_class": "symbolInstance",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C711C5FB-3013-4BB6-B70F-8BEBA145440F",
+  "do_objectID": "686E10A3-C3C2-4B2F-B2D8-38E915891EBB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,29 +22,68 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 64,
-    "x": 241,
-    "y": 17
+    "height": 812,
+    "width": 375,
+    "x": -62,
+    "y": -262
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "maintainScrollPosition": false,
-  "name": "a-tab/inactive/14px",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "group",
+      "id": "4FCF2686-C1EF-4882-9E21-1E21AB530DFC"
+    }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 4,
+    "gutterWidth": 9,
+    "guttersOutside": false,
+    "horizontalOffset": 21,
+    "isEnabled": true,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 333
+  },
+  "maintainScrollPosition": false,
+  "name": "iPhone 11 Pro",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -72,7 +118,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "48D86C18-C565-4C6B-8CD6-26855DAEEE10",
+    "do_objectID": "CAF6C1B5-E494-43A6-8906-0675167B9B21",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -84,6 +130,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "66557B6A-9F3A-4D34-B587-ED7890E47C1A",
-  "verticalSpacing": 0
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
-  "booleanOperation": -1,
+  "_class": "group",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "E5D143B7-0955-465A-B2AA-6D04B563D3C1",
+  "do_objectID": "487286CC-4A37-4CD2-AB05-D4628986A437",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,29 +14,43 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 2,
-    "width": 162,
-    "x": 21,
-    "y": 50
+    "constrainProportions": true,
+    "height": 23,
+    "width": 119,
+    "x": 0,
+    "y": 1
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "maintainScrollPosition": false,
-  "name": "a-line/active tab/small",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "8F6C27F7-A2DA-4339-BA78-B683D6B0AFFD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A7612AE0-FEAF-42BF-8970-529C4DF4A091"
+    },
+    {
+      "class": "group",
+      "id": "03B3A566-BF4F-4CDA-A4D2-D172111DEFED"
+    }
   ],
+  "maintainScrollPosition": false,
+  "name": "TATA CLiQ_Logo_Black",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -45,7 +59,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 8,
       "saturation": 1,
       "type": 0
     },
@@ -72,7 +86,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F64389D7-A2AE-49AB-8D02-690C18BBD134",
+    "do_objectID": "87CAC904-3B99-4621-B555-B44BB1C2E049",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -84,6 +98,25 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F8800074-C437-40E5-86EC-59129CF0E74F",
-  "verticalSpacing": 0
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 28,
+            "enabled": 1,
+            "modelID": "constraint_50f770a3-49c0-43d1-ad75-7e5a66904e56",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 149
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_d34fa59b-3bb7-424d-9f27-dc873962e336",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
 }

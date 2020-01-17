@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A56B880C-CEA6-4796-9054-28AFD227FB0A",
+  "do_objectID": "E5A55869-FC44-40C9-B6CF-3C8692A752BD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,38 +15,28 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 52,
-    "width": 375,
+    "height": 2,
+    "width": 162,
     "x": 0,
-    "y": 0
+    "y": 50
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "rectangle",
-      "id": "E4CB1500-75DF-4A66-A9ED-3A8506DBB91F"
-    },
-    {
-      "class": "shapePath",
-      "id": "1EF4C096-B383-4482-981E-DD8B4BD28919"
-    }
-  ],
+  "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Group 3",
+  "name": "a-line/active tab/small",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -74,7 +64,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": false,
+      "isEnabled": true,
       "saturation": 1
     },
     "contextSettings": {
@@ -82,7 +72,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B8842B62-E975-44CE-9E96-9A1425566CFF",
+    "do_objectID": "40DCE844-0624-47E3-9D77-299F97AF5BC2",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -93,5 +83,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "F8800074-C437-40E5-86EC-59129CF0E74F",
+  "verticalSpacing": 0
 }

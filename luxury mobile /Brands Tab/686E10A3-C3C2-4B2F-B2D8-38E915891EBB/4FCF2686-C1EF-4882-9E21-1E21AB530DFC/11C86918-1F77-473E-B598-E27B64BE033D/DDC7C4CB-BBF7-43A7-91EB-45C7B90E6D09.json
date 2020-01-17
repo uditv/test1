@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A56B880C-CEA6-4796-9054-28AFD227FB0A",
+  "do_objectID": "DDC7C4CB-BBF7-43A7-91EB-45C7B90E6D09",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -18,35 +18,45 @@
     "height": 52,
     "width": 375,
     "x": 0,
-    "y": 0
+    "y": 100
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "m/tab bar/two tabs",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "rectangle",
-      "id": "E4CB1500-75DF-4A66-A9ED-3A8506DBB91F"
+      "_class": "overrideValue",
+      "overrideName": "1047F0EF-3817-4617-AC74-C28AE0640913_symbolID",
+      "value": "92779586-560A-46F9-BFB8-309F5EE352D9"
     },
     {
-      "class": "shapePath",
-      "id": "1EF4C096-B383-4482-981E-DD8B4BD28919"
+      "_class": "overrideValue",
+      "overrideName": "43985DE5-E0F6-44AC-A3D2-AA786E9ACA1A_symbolID",
+      "value": "66557B6A-9F3A-4D34-B587-ED7890E47C1A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "43985DE5-E0F6-44AC-A3D2-AA786E9ACA1A/DAE7EE27-B84E-4C0C-8A57-73ECB618D42C_stringValue",
+      "value": "Luxury"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1047F0EF-3817-4617-AC74-C28AE0640913/D89923F8-4D26-4541-8ED3-01CA40B1F776_stringValue",
+      "value": "Indiluxe"
     }
   ],
-  "maintainScrollPosition": false,
-  "name": "Group 3",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -82,7 +92,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B8842B62-E975-44CE-9E96-9A1425566CFF",
+    "do_objectID": "95F3D159-56F1-4FA0-8ADB-8A44A054F321",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -93,5 +103,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "745E8268-244E-49FD-A950-841512CE0716",
+  "verticalSpacing": 0
 }
