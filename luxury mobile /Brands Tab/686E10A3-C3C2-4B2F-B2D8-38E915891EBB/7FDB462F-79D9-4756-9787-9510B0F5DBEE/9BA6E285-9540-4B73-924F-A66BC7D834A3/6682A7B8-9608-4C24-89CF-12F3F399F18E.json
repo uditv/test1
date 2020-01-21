@@ -9,33 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.09019607843137255,
-            "green": 0.1019607843137255,
-            "red": 0.1098039215686274
+            "blue": 0.8156862745098039,
+            "green": 0.8196078431372549,
+            "red": 0.8196078431372549
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Lato-Regular",
-              "size": 16
+              "size": 11
             }
           },
+          "kerning": -0.1283333615384615,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 0,
+            "maximumLineHeight": 14,
+            "minimumLineHeight": 14
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 67,
         "location": 0
       }
     ],
-    "string": "Women"
+    "string": "Contemporary sensibilities with tradition of excellent craftmanship"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2F4A095E-A8C7-44EF-9E4F-650AF4B44832",
+  "do_objectID": "6682A7B8-9608-4C24-89CF-12F3F399F18E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 19,
-    "width": 56,
-    "x": 21,
-    "y": 1246
+    "height": 28,
+    "width": 194,
+    "x": 30,
+    "y": 183
   },
-  "glyphBounds": "{{0, 4}, {55, 13}}",
+  "glyphBounds": "{{0, 2}, {191, 25}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Women",
+  "name": "Contemporary sensibi",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -104,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "990F429A-4888-4CF3-896A-97CB0B2FA92F",
+    "do_objectID": "40B078A1-FF67-4170-94CD-BB7E4AA0B4C7",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -120,20 +123,23 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.09019607843137255,
-          "green": 0.1019607843137255,
-          "red": 0.1098039215686274
+          "blue": 0.8156862745098039,
+          "green": 0.8196078431372549,
+          "red": 0.8196078431372549
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Lato-Regular",
-            "size": 16
+            "size": 11
           }
         },
+        "kerning": -0.1283333615384615,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 0,
+          "maximumLineHeight": 14,
+          "minimumLineHeight": 14
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -141,5 +147,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

@@ -17,25 +17,28 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Lato-Regular",
-              "size": 16
+              "size": 14
             }
           },
+          "MSAttributedStringTextTransformAttribute": 1,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 0,
+            "maximumLineHeight": 14,
+            "minimumLineHeight": 14
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 3,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "Men"
+    "string": "Top men’s Brands"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "03782972-6AF7-4E6D-AFD5-64489CFDCE2D",
+  "do_objectID": "3F5CDCC9-BB83-4127-A3EC-CB3AB21D9D76",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 19,
-    "width": 32,
+    "height": 14,
+    "width": 133,
     "x": 21,
-    "y": 1226
+    "y": 1208
   },
-  "glyphBounds": "{{1, 4}, {30, 13}}",
+  "glyphBounds": "{{0, 1}, {133, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +67,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Men",
+  "name": "Top men’s Brands",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -104,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "6AC0AD06-267A-4BAE-B37E-23278E90AD44",
+    "do_objectID": "FC453FEC-E2BD-46AA-8127-5901A2184325",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -128,12 +131,15 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Lato-Regular",
-            "size": 16
+            "size": 14
           }
         },
+        "MSAttributedStringTextTransformAttribute": 1,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 0,
+          "maximumLineHeight": 14,
+          "minimumLineHeight": 14
         },
         "textStyleVerticalAlignmentKey": 0
       },
