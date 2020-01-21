@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2108,
+    "height": 1849,
     "width": 375,
     "x": -62,
     "y": -262
@@ -99,10 +99,6 @@
     },
     {
       "class": "text",
-      "id": "9D51A129-5000-44B1-8D01-6738AF4525A9"
-    },
-    {
-      "class": "text",
       "id": "AD660E9B-1125-4CD4-8F66-9EC1BAF40E97"
     },
     {
@@ -140,6 +136,18 @@
     {
       "class": "text",
       "id": "88B015BB-805E-4CA7-9F11-7072C7C14420"
+    },
+    {
+      "class": "group",
+      "id": "A73EE140-DA03-4ACF-AC63-F1CB40648C30"
+    },
+    {
+      "class": "rectangle",
+      "id": "89639B1A-776A-4C60-AABB-9B41229A70E3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F40FB4D-25B8-474D-BC71-8B02EE043F35"
     }
   ],
   "layout": {
@@ -158,8 +166,8 @@
     "totalWidth": 333
   },
   "maintainScrollPosition": false,
-  "name": "iPhone 11 Pro",
-  "nameIsFixed": false,
+  "name": "Brands Tab",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 667,
