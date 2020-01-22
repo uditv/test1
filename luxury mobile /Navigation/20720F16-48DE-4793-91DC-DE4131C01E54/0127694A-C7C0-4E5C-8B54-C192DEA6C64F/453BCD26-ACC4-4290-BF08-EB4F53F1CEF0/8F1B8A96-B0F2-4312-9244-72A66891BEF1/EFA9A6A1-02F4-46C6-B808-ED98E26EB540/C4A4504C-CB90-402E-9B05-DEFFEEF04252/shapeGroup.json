@@ -1,9 +1,8 @@
 {
-  "_class": "shapePath",
-  "booleanOperation": -1,
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "896346F9-CFB8-4EB4-8F9E-C614C8DC1F61",
-  "edited": true,
+  "do_objectID": "C4A4504C-CB90-402E-9B05-DEFFEEF04252",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,58 +15,38 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 6,
-    "width": 12,
-    "x": 0,
-    "y": 3
+    "height": 12.89449411764706,
+    "width": 11.0376,
+    "x": 96.75288,
+    "y": 0.2411952941176488
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "isClosed": false,
   "isFixedToViewport": false,
-  "isFlippedHorizontal": true,
+  "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "maintainScrollPosition": false,
-  "name": "Shape",
-  "nameIsFixed": false,
-  "pointRadiusBehaviour": 1,
-  "points": [
+  "layerListExpandedType": 0,
+  "layers": [
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 0}",
-      "curveMode": 1,
-      "curveTo": "{1, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 0}"
+      "class": "shapePath",
+      "id": "2A80FD67-E361-44CF-85B7-9F93F8E2C726"
     },
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0.5, 1}",
-      "curveMode": 1,
-      "curveTo": "{0.5, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0.5, 1}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0, 0}",
-      "curveMode": 1,
-      "curveTo": "{0, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 0}"
+      "class": "shapePath",
+      "id": "DAF31A94-B8FB-446C-A882-3CA104865857"
     }
   ],
+  "maintainScrollPosition": false,
+  "name": "Fill 21",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": -90,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -76,7 +55,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 8,
       "saturation": 1,
       "type": 0
     },
@@ -84,13 +63,30 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "isEnabled": false,
-      "lineCapStyle": 1,
-      "lineJoinStyle": 1
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
     },
     "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "75CBADF1-6083-48CE-88ED-7147023C2FD1",
+    "endMarkerType": 0,
+    "fills": [
       {
-        "_class": "border",
+        "_class": "fill",
         "color": {
           "_class": "color",
           "alpha": 1,
@@ -136,26 +132,11 @@
           "to": "{0.5, 1}"
         },
         "isEnabled": true,
-        "position": 0,
-        "thickness": 1
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
       }
-    ],
-    "colorControls": {
-      "_class": "colorControls",
-      "brightness": 0,
-      "contrast": 1,
-      "hue": 0,
-      "isEnabled": false,
-      "saturation": 1
-    },
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 1
-    },
-    "do_objectID": "AF28FB98-8CC9-4886-9D61-D9ABA7CF5A02",
-    "endMarkerType": 0,
-    "fills": [
     ],
     "innerShadows": [
     ],
@@ -164,5 +145,6 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "windingRule": 1
 }

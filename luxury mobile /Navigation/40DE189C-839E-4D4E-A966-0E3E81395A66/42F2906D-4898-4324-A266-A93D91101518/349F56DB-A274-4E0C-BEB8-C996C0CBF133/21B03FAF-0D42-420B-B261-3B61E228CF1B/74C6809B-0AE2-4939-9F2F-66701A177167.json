@@ -1,17 +1,9 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "bitmap",
   "booleanOperation": -1,
-  "changeIdentifier": 14,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "D68B5BF2-780D-4ADD-B551-02C62CF44095",
+  "do_objectID": "74C6809B-0AE2-4939-9F2F-66701A177167",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,54 +13,35 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 12,
-    "width": 12,
-    "x": 12350,
-    "y": -144
+    "constrainProportions": true,
+    "height": 469,
+    "width": 312.6666666666666,
+    "x": -55,
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/e967db73317292781350dbc5c2331272e4bc0421.png",
+    "_ref_class": "MSImageData"
   },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
-  "includeInCloudUpload": true,
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "shapePath",
-      "id": "896346F9-CFB8-4EB4-8F9E-C614C8DC1F61"
-    }
-  ],
   "maintainScrollPosition": false,
-  "name": "a/arrow/right",
+  "name": "Bitmap",
   "nameIsFixed": false,
-  "overrideProperties": [
-  ],
-  "presetDictionary": {
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -103,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "568D51F4-23F8-4DF5-BB5D-05A474D9DA76",
+    "do_objectID": "94E8764E-8472-4A42-B2B8-ED1FB93A716F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -114,12 +87,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "78901CFF-2057-4977-B721-F5389913EFCE",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

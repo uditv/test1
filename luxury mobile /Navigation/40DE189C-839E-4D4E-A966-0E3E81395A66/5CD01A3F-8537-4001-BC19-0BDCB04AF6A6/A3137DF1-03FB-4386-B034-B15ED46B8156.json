@@ -1,17 +1,8 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "symbolInstance",
   "booleanOperation": -1,
-  "changeIdentifier": 14,
   "clippingMaskMode": 0,
-  "do_objectID": "D68B5BF2-780D-4ADD-B551-02C62CF44095",
+  "do_objectID": "A3137DF1-03FB-4386-B034-B15ED46B8156",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,51 +15,29 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
-    "width": 12,
-    "x": 12350,
-    "y": -144
+    "height": 44,
+    "width": 375,
+    "x": 0,
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "shapePath",
-      "id": "896346F9-CFB8-4EB4-8F9E-C614C8DC1F61"
-    }
-  ],
+  "layerListExpandedType": 2,
   "maintainScrollPosition": false,
-  "name": "a/arrow/right",
+  "name": "Bars / Status Bar / iPhone / On Light",
   "nameIsFixed": false,
-  "overrideProperties": [
+  "overrideValues": [
   ],
-  "presetDictionary": {
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -103,7 +72,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "568D51F4-23F8-4DF5-BB5D-05A474D9DA76",
+    "do_objectID": "E09F475C-2044-40E4-A426-3EB4713A86DE",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -115,11 +84,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "78901CFF-2057-4977-B721-F5389913EFCE",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "7FCD66A2-E429-4BCC-8D66-2D74A8C0C6C3",
+  "verticalSpacing": 0
 }

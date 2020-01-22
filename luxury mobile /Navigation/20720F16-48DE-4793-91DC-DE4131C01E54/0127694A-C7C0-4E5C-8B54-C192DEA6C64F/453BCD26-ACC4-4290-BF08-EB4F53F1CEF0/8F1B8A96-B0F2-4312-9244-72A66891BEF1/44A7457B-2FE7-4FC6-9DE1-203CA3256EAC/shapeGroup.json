@@ -1,9 +1,8 @@
 {
-  "_class": "shapePath",
-  "booleanOperation": -1,
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "896346F9-CFB8-4EB4-8F9E-C614C8DC1F61",
-  "edited": true,
+  "do_objectID": "44A7457B-2FE7-4FC6-9DE1-203CA3256EAC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,58 +15,46 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 6,
-    "width": 12,
+    "height": 5.813458823529409,
+    "width": 23.5312,
     "x": 0,
-    "y": 3
+    "y": 0.2813176470588231
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "isClosed": false,
   "isFixedToViewport": false,
-  "isFlippedHorizontal": true,
+  "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "maintainScrollPosition": false,
-  "name": "Shape",
-  "nameIsFixed": false,
-  "pointRadiusBehaviour": 1,
-  "points": [
+  "layerListExpandedType": 0,
+  "layers": [
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 0}",
-      "curveMode": 1,
-      "curveTo": "{1, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 0}"
+      "class": "shapePath",
+      "id": "E55C9D78-455B-4B59-8AC3-3E11A7A98DAF"
     },
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0.5, 1}",
-      "curveMode": 1,
-      "curveTo": "{0.5, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0.5, 1}"
+      "class": "shapePath",
+      "id": "AF6C564A-171E-428D-9B4E-1BD7F3D4D71E"
     },
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0, 0}",
-      "curveMode": 1,
-      "curveTo": "{0, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 0}"
+      "class": "shapePath",
+      "id": "6DD1DB87-1321-4E3F-95FE-A467F7CBE34C"
+    },
+    {
+      "class": "shapePath",
+      "id": "E3671AE4-C86C-483A-A959-FBF93DF6EAE8"
     }
   ],
+  "maintainScrollPosition": false,
+  "name": "Fill 2",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": -90,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -76,7 +63,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 8,
       "saturation": 1,
       "type": 0
     },
@@ -84,13 +71,30 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "isEnabled": false,
-      "lineCapStyle": 1,
-      "lineJoinStyle": 1
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
     },
     "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "633B18B3-DAAA-4E25-B336-BADB1B2F7C04",
+    "endMarkerType": 0,
+    "fills": [
       {
-        "_class": "border",
+        "_class": "fill",
         "color": {
           "_class": "color",
           "alpha": 1,
@@ -136,26 +140,11 @@
           "to": "{0.5, 1}"
         },
         "isEnabled": true,
-        "position": 0,
-        "thickness": 1
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
       }
-    ],
-    "colorControls": {
-      "_class": "colorControls",
-      "brightness": 0,
-      "contrast": 1,
-      "hue": 0,
-      "isEnabled": false,
-      "saturation": 1
-    },
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 1
-    },
-    "do_objectID": "AF28FB98-8CC9-4886-9D61-D9ABA7CF5A02",
-    "endMarkerType": 0,
-    "fills": [
     ],
     "innerShadows": [
     ],
@@ -164,5 +153,6 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "windingRule": 1
 }
