@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -292,6 +292,10 @@
     {
       "class": "text",
       "id": "FBE1490F-9D9E-4D8A-8A4F-9D95666BE079"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EC164A6E-B5C8-4301-8462-1F393136B593"
     }
   ],
   "layout": {
@@ -309,7 +313,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 335
   },
-  "name": "Size Guide Copy",
+  "name": "Lens Power",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
