@@ -1,17 +1,9 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "bitmap",
   "booleanOperation": -1,
-  "changeIdentifier": 4,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "0B84F238-8C4D-43FA-9CE8-0B6E5950092E",
+  "do_objectID": "6F2AC965-DA3B-4C91-9A8E-965DBC39C9CD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,58 +13,34 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 612,
-    "width": 550,
-    "x": 28416,
-    "y": -1177
+    "constrainProportions": true,
+    "height": 66,
+    "width": 228,
+    "x": 556,
+    "y": 7
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasBackgroundColor": false,
-  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/7535131ad191c352af5e49ade563d430fbc2a453.png",
+    "_ref_class": "MSImageData"
   },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
-  "includeInCloudUpload": true,
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "group",
-      "id": "7ED4CD1B-6AF0-4468-ABFD-71D9749D11F1"
-    }
-  ],
-  "name": "a/pdp/product image",
+  "name": "Bitmap",
   "nameIsFixed": false,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "04F086F7-EB94-40B6-8C59-28742334EC44_image"
-    }
-  ],
-  "presetDictionary": {
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -107,7 +75,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "FD717CBB-47E9-405E-8297-9E8C72051078",
+    "do_objectID": "AB53E701-E29C-4D75-993A-447B6E213AF1",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -119,11 +87,25 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A634F0A1-13DE-4F94-9AA3-88C1C9959DDA",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 156,
+            "enabled": 1,
+            "modelID": "constraint_1f2b4629-7b87-4a45-a115-b7649ee0c304",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 540
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_18369f2f-d3c0-46d7-bf88-d855927fd8d3",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
   }
 }

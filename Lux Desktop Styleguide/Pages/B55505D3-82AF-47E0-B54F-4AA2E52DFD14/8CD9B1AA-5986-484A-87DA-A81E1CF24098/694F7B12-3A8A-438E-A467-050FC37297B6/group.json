@@ -1,17 +1,8 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
-  "changeIdentifier": 4,
   "clippingMaskMode": 0,
-  "do_objectID": "0B84F238-8C4D-43FA-9CE8-0B6E5950092E",
+  "do_objectID": "694F7B12-3A8A-438E-A467-050FC37297B6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,55 +15,46 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 612,
-    "width": 550,
-    "x": 28416,
-    "y": -1177
+    "height": 744,
+    "width": 1366,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "7ED4CD1B-6AF0-4468-ABFD-71D9749D11F1"
-    }
-  ],
-  "name": "a/pdp/product image",
-  "nameIsFixed": false,
-  "overrideProperties": [
+      "class": "rectangle",
+      "id": "3E724EFF-F065-49B8-A806-1DC25124B4D0"
+    },
     {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "04F086F7-EB94-40B6-8C59-28742334EC44_image"
+      "class": "group",
+      "id": "7C338D66-7466-4433-92D1-362EABD0F3AD"
+    },
+    {
+      "class": "group",
+      "id": "45872F74-12A0-42EF-AE0D-18CF9005195D"
+    },
+    {
+      "class": "group",
+      "id": "DE92A541-C8D0-4C0C-B84B-B63C9963B35D"
     }
   ],
-  "presetDictionary": {
-  },
-  "resizesContent": false,
+  "name": "Group 7",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -107,7 +89,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "FD717CBB-47E9-405E-8297-9E8C72051078",
+    "do_objectID": "767552AC-E505-4CEA-AC3B-CD5E139E13DC",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -118,12 +100,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "A634F0A1-13DE-4F94-9AA3-88C1C9959DDA",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

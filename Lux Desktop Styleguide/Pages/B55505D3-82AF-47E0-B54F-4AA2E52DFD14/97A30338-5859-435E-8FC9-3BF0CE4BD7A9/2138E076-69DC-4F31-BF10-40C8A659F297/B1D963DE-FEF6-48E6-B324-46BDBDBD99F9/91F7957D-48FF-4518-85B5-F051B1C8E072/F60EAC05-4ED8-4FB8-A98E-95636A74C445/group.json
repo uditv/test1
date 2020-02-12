@@ -1,20 +1,20 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
-  "booleanOperation": -1,
-  "changeIdentifier": 4,
+  "_class": "group",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "0B84F238-8C4D-43FA-9CE8-0B6E5950092E",
+  "do_objectID": "F60EAC05-4ED8-4FB8-A98E-95636A74C445",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -23,56 +23,39 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 612,
-    "width": 550,
-    "x": 28416,
-    "y": -1177
+    "constrainProportions": true,
+    "height": 14,
+    "width": 22,
+    "x": 18.83592549555715,
+    "y": 40
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "7ED4CD1B-6AF0-4468-ABFD-71D9749D11F1"
-    }
-  ],
-  "name": "a/pdp/product image",
-  "nameIsFixed": false,
-  "overrideProperties": [
+      "class": "shapePath",
+      "id": "9F853DB3-C93F-4AFA-A009-DF1C40735D2B"
+    },
     {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "04F086F7-EB94-40B6-8C59-28742334EC44_image"
+      "class": "shapePath",
+      "id": "D875BB73-7BEE-415D-896A-B71BBAADD217"
     }
   ],
-  "presetDictionary": {
-  },
-  "resizesContent": false,
+  "name": "005-google-plus",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -107,7 +90,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "FD717CBB-47E9-405E-8297-9E8C72051078",
+    "do_objectID": "61C36165-2BCD-4736-A98D-9F4B848D5A9C",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -119,11 +102,25 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A634F0A1-13DE-4F94-9AA3-88C1C9959DDA",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 14,
+            "enabled": 1,
+            "modelID": "constraint_a17912be-c1ce-4bed-92c3-e77f8e8ef823",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 22
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_77296387-ff5c-493d-8d46-3b33b9761ae2",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
   }
 }
