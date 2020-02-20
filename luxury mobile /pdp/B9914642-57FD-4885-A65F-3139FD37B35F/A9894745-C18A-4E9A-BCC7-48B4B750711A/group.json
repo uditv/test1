@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -94,10 +94,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "BAD023FD-26D9-4101-ABCD-A9B85D1E7B84"
-    },
-    {
-      "class": "symbolInstance",
       "id": "D7535BAE-E194-46D5-B495-CF784973EDC9"
     },
     {
@@ -119,6 +115,10 @@
     {
       "class": "symbolInstance",
       "id": "B2A053E5-3F54-42DC-BE8E-58BC2DD0AB68"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C7CAD900-3D3A-4DD5-9355-F020560DF44D"
     },
     {
       "class": "symbolInstance",
@@ -214,11 +214,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "38578C4E-39BD-4336-BC7E-DFA25483A680"
+      "id": "E426EB14-627C-473E-81F1-38BEBBE09A40"
     },
     {
       "class": "symbolInstance",
-      "id": "0508E25F-928B-44BC-A159-FF857A849F7E"
+      "id": "6BB0CCEC-7715-4997-BDBC-69403CB5134D"
     },
     {
       "class": "symbolInstance",
@@ -337,6 +337,14 @@
       "id": "5704215B-C13C-440E-833A-53743C700109"
     },
     {
+      "class": "shapePath",
+      "id": "6FBBF24B-42C7-4DFF-A1E3-A0823F83569F"
+    },
+    {
+      "class": "shapePath",
+      "id": "52D31598-9689-43EA-8F02-0D23D13E75AC"
+    },
+    {
       "class": "text",
       "id": "4A3DEDBD-C3B1-4FF1-BAE4-865D6FCD492C"
     },
@@ -359,10 +367,6 @@
     {
       "class": "symbolInstance",
       "id": "CC000251-B44C-4D22-AA87-43B2F8159886"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F9C2B779-9A05-4AEB-A482-CFAA7138DC22"
     },
     {
       "class": "text",
@@ -411,6 +415,14 @@
     {
       "class": "text",
       "id": "47D39B60-9EF9-4084-8C54-44378181A429"
+    },
+    {
+      "class": "shapePath",
+      "id": "2569434A-2BD7-429E-BFBD-7711F4DC2C4D"
+    },
+    {
+      "class": "shapePath",
+      "id": "D0F778A5-D9A5-4EAD-8939-FFFE3EAC707B"
     }
   ],
   "name": "0.00 + -0.25 + 1.00 + 1.50 + -0.50 + 1.25 + 2.00 Mask",
