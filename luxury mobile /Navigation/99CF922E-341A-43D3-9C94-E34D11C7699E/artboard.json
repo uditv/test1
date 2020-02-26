@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,8 +54,12 @@
       "id": "8EC7ED1D-1507-4B16-B558-E6B683EF27BF"
     },
     {
+      "class": "symbolInstance",
+      "id": "D1CE1E06-69F6-4B2A-BE46-F659ED113359"
+    },
+    {
       "class": "group",
-      "id": "4172C095-527F-412F-ADEC-9A42BAB6AB46"
+      "id": "2E14E550-97DE-4BBE-A77C-AE42F49C2691"
     },
     {
       "class": "rectangle",
@@ -94,20 +98,16 @@
       "id": "A0616405-84A9-4397-B8CE-534B59FE9307"
     },
     {
-      "class": "symbolInstance",
-      "id": "5C984B0D-E008-4B6B-B1DA-9D2BE2BD6A7F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8CF230E3-E51A-4D7D-BC64-5AA5410AB5A2"
-    },
-    {
       "class": "group",
       "id": "CB4A87E4-A379-4F71-BB31-F76ABBED0477"
     },
     {
       "class": "symbolInstance",
       "id": "4B6215D1-0C1C-4F92-800F-F1F21EE188CF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "343B180F-BD8C-4C16-980A-60FB4CEB058A"
     }
   ],
   "layout": {
@@ -125,7 +125,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 333
   },
-  "name": "category navigation 2 new",
+  "name": "Shop 1.2",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

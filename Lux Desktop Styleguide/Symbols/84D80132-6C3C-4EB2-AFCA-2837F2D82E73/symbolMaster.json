@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 3336,
   "clippingMaskMode": 0,
   "do_objectID": "84D80132-6C3C-4EB2-AFCA-2837F2D82E73",
   "exportOptions": {
@@ -24,8 +24,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 630,
-    "width": 550,
+    "height": 520,
+    "width": 455,
     "x": 28416,
     "y": -465
   },
@@ -50,16 +50,40 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "FBD5DB8B-0FC8-4617-BAFB-D8B67E6C19F5"
+      "id": "FE2E9D42-5240-4E39-B0A4-E72A1A8AB75E"
+    },
+    {
+      "class": "group",
+      "id": "9504F61D-A486-46B6-9131-26DEEC727CD9"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 4,
+    "gutterWidth": 9,
+    "guttersOutside": false,
+    "horizontalOffset": 61,
+    "isEnabled": true,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 333
+  },
   "name": "a/pdp/image/scroll",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D5C5CC0D-CCA7-4E0A-A43F-4FDE2109C55F_image"
+    }
   ],
   "presetDictionary": {
   },
