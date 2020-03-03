@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 2447,
     "width": 1440,
-    "x": 13119,
-    "y": -4910
+    "x": 13319,
+    "y": -5227
   },
   "grid": {
     "_class": "simpleGrid",
@@ -37,7 +37,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,10 +56,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "C1E379C0-9F91-4279-985F-8436AF652106"
-    },
-    {
       "class": "symbolInstance",
       "id": "CEA24D69-19C2-404D-9807-48985D99FD71"
     },
@@ -70,6 +66,10 @@
     {
       "class": "symbolInstance",
       "id": "3F90CFFA-2F1B-41AA-B4C5-5C94A8AA7D2D"
+    },
+    {
+      "class": "group",
+      "id": "5511EDCC-B830-4E48-B7A3-DB9319AC2B9F"
     },
     {
       "class": "rectangle",
@@ -98,7 +98,7 @@
     "gutterWidth": 20,
     "guttersOutside": false,
     "horizontalOffset": 160,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1120
