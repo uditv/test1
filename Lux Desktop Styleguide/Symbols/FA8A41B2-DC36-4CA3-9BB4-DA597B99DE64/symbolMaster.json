@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 118,
+  "changeIdentifier": 125,
   "clippingMaskMode": 0,
   "do_objectID": "FA8A41B2-DC36-4CA3-9BB4-DA597B99DE64",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,18 +59,18 @@
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 10,
-    "drawHorizontal": false,
+    "columnWidth": 75,
+    "drawHorizontal": true,
     "drawHorizontalLines": false,
     "drawVertical": true,
-    "gutterHeight": 12,
-    "gutterWidth": 3.333333333333333,
-    "guttersOutside": true,
-    "horizontalOffset": 0,
+    "gutterHeight": 4,
+    "gutterWidth": 20,
+    "guttersOutside": false,
+    "horizontalOffset": -480,
     "isEnabled": true,
     "numberOfColumns": 12,
-    "rowHeightMultiplication": 5,
-    "totalWidth": 160
+    "rowHeightMultiplication": 1,
+    "totalWidth": 1120
   },
   "name": "a/paymentoption/select",
   "nameIsFixed": true,

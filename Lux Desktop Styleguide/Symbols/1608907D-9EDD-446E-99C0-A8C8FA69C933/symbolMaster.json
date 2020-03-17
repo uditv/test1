@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 697,
+  "changeIdentifier": 705,
   "clippingMaskMode": 0,
   "do_objectID": "1608907D-9EDD-446E-99C0-A8C8FA69C933",
   "exportOptions": {
@@ -39,7 +39,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -69,18 +69,18 @@
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 33.16666666666666,
-    "drawHorizontal": false,
+    "columnWidth": 75,
+    "drawHorizontal": true,
     "drawHorizontalLines": false,
     "drawVertical": true,
-    "gutterHeight": 12,
-    "gutterWidth": 5,
+    "gutterHeight": 4,
+    "gutterWidth": 20,
     "guttersOutside": false,
-    "horizontalOffset": 0,
-    "isEnabled": false,
+    "horizontalOffset": -344.5,
+    "isEnabled": true,
     "numberOfColumns": 12,
-    "rowHeightMultiplication": 5,
-    "totalWidth": 453
+    "rowHeightMultiplication": 1,
+    "totalWidth": 1120
   },
   "name": "m/colour selection/collapsed",
   "nameIsFixed": true,

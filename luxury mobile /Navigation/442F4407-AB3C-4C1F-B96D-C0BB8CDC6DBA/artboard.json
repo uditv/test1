@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1345,
+    "height": 1292,
     "width": 375,
     "x": -600,
     "y": 5845
@@ -47,16 +47,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "group",
-      "id": "A6441424-FF53-42C5-B2BD-067CC0C9BDD5"
-    },
-    {
-      "class": "group",
-      "id": "79FE515C-7C48-418F-AD94-309E15C81AD8"
-    },
     {
       "class": "group",
       "id": "3591AAA4-9D41-48C2-B5BB-4914E04B0967"
@@ -79,7 +71,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "4D51FA77-D4ED-41F9-9BA2-A1E9EFB4996D"
+      "id": "27AB2B49-6CF8-4636-9F24-ED27F0ACEB35"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "389D8D8D-858B-49A6-8E47-47129733345E"
     }
   ],
   "layout": {
@@ -101,12 +97,12 @@
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
-    "height": 667,
-    "name": "iPhone 8",
+    "height": 812,
+    "name": "iPhone 11 Pro",
     "offersLandscapeVariant": 1,
     "width": 375
   },
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

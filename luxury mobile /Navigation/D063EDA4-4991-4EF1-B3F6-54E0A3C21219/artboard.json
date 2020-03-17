@@ -51,15 +51,15 @@
   "layers": [
     {
       "class": "group",
-      "id": "C4942AF5-0165-47B0-ADC8-E005CC4FE102"
-    },
-    {
-      "class": "group",
       "id": "797E45E1-D569-41AC-B69C-6F192485E048"
     },
     {
       "class": "rectangle",
       "id": "D830D07F-2B8C-4038-B466-9E768CCC01BC"
+    },
+    {
+      "class": "rectangle",
+      "id": "2F4B464E-3B0A-4D16-A7AE-F094EF7290E3"
     },
     {
       "class": "symbolInstance",
@@ -92,6 +92,10 @@
     {
       "class": "group",
       "id": "A86D3D83-A459-4DBB-9039-55E0734C0A4A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "70E9CDEA-C59B-4D13-81D7-838B6D23E3F8"
     },
     {
       "class": "rectangle",
@@ -206,12 +210,8 @@
       "id": "6B09F25F-92C5-474C-B3CC-AFB2D486BE29"
     },
     {
-      "class": "group",
-      "id": "1DB10C7B-A4CC-4C1D-9394-D1EBB142521B"
-    },
-    {
       "class": "symbolInstance",
-      "id": "52F26110-4E0D-4895-B4B4-0541016DEB2E"
+      "id": "BBC5889E-9A0B-4CF3-9A62-C4D9505E0FBA"
     }
   ],
   "layout": {
@@ -224,7 +224,7 @@
     "gutterWidth": 9,
     "guttersOutside": false,
     "horizontalOffset": 21,
-    "isEnabled": false,
+    "isEnabled": true,
     "numberOfColumns": 6,
     "rowHeightMultiplication": 1,
     "totalWidth": 333
@@ -233,8 +233,8 @@
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
-    "height": 667,
-    "name": "iPhone 8",
+    "height": 812,
+    "name": "iPhone 11 Pro",
     "offersLandscapeVariant": 1,
     "width": 375
   },

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 82,
+  "changeIdentifier": 2164,
   "clippingMaskMode": 0,
   "do_objectID": "59B5681C-44A8-47CE-993C-FE2789705A7D",
   "exportOptions": {
@@ -50,13 +50,28 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "4A6FC845-297A-4AC9-8922-FD78BB6BB915"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 75,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 4,
+    "gutterWidth": 20,
+    "guttersOutside": false,
+    "horizontalOffset": 163,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 1120
+  },
   "name": "footer1",
   "nameIsFixed": false,
   "overrideProperties": [
@@ -64,6 +79,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "86CA308D-75A1-4BF0-B35D-8F291E7FC028_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FA716ADA-6A34-4B8B-9946-1644FE5F6E86_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -219,11 +239,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "DB962FF8-BB04-457B-B48A-BADEBDBDF151_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "43A4AD16-0ABA-4786-AA48-C5B66B84CAE5_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",

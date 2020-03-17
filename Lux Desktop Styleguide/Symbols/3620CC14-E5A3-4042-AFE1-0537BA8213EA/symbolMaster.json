@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 53,
+  "changeIdentifier": 59,
   "clippingMaskMode": 0,
   "do_objectID": "3620CC14-E5A3-4042-AFE1-0537BA8213EA",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,6 +57,21 @@
       "id": "23412142-C4A7-4D8B-B7A0-51C66F19A88E"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 75,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 4,
+    "gutterWidth": 20,
+    "guttersOutside": false,
+    "horizontalOffset": -451,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 1120
+  },
   "name": "a/Button/Secondary CTA/white",
   "nameIsFixed": true,
   "overrideProperties": [

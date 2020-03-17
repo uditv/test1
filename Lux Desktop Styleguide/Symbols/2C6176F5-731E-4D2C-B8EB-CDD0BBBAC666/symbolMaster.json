@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 915,
+  "changeIdentifier": 921,
   "clippingMaskMode": 0,
   "do_objectID": "2C6176F5-731E-4D2C-B8EB-CDD0BBBAC666",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,6 +61,21 @@
       "id": "3440555C-BD45-404A-92B1-17469C818C39"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 75,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 4,
+    "gutterWidth": 20,
+    "guttersOutside": false,
+    "horizontalOffset": -552,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 1120
+  },
   "name": "a/box/selected",
   "nameIsFixed": true,
   "overrideProperties": [

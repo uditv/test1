@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1142,
+    "height": 1087,
     "width": 375,
     "x": -157.9999999999999,
     "y": 5845
@@ -50,10 +50,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "8EC7ED1D-1507-4B16-B558-E6B683EF27BF"
-    },
-    {
       "class": "symbolInstance",
       "id": "D1CE1E06-69F6-4B2A-BE46-F659ED113359"
     },
@@ -75,11 +71,19 @@
     },
     {
       "class": "symbolInstance",
+      "id": "1494A4A4-12B3-4DA8-9036-CFB4DC75F404"
+    },
+    {
+      "class": "symbolInstance",
       "id": "BE6616B4-45E6-4578-B0FD-1876FFB707D4"
     },
     {
       "class": "text",
       "id": "30BE9726-B82B-457D-9942-D1B7E9962EFA"
+    },
+    {
+      "class": "rectangle",
+      "id": "DE5C628D-89CD-4DE6-83A4-EE51391C9990"
     },
     {
       "class": "symbolInstance",
@@ -98,16 +102,12 @@
       "id": "A0616405-84A9-4397-B8CE-534B59FE9307"
     },
     {
-      "class": "group",
-      "id": "CB4A87E4-A379-4F71-BB31-F76ABBED0477"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4B6215D1-0C1C-4F92-800F-F1F21EE188CF"
-    },
-    {
       "class": "symbolInstance",
       "id": "343B180F-BD8C-4C16-980A-60FB4CEB058A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9A1D3746-A1A9-4CF1-8062-B78DBD2B8CCD"
     }
   ],
   "layout": {
@@ -129,8 +129,8 @@
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
-    "height": 667,
-    "name": "iPhone 8",
+    "height": 812,
+    "name": "iPhone 11 Pro",
     "offersLandscapeVariant": 1,
     "width": 375
   },

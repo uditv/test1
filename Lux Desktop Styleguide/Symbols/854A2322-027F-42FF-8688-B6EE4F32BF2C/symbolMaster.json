@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 332,
+  "changeIdentifier": 339,
   "clippingMaskMode": 0,
   "do_objectID": "854A2322-027F-42FF-8688-B6EE4F32BF2C",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,17 +59,17 @@
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 67.5,
+    "columnWidth": 75,
     "drawHorizontal": true,
     "drawHorizontalLines": false,
     "drawVertical": true,
-    "gutterHeight": 12,
-    "gutterWidth": 25.83333333333333,
-    "guttersOutside": true,
-    "horizontalOffset": 120,
+    "gutterHeight": 4,
+    "gutterWidth": 20,
+    "guttersOutside": false,
+    "horizontalOffset": -534,
     "isEnabled": true,
     "numberOfColumns": 12,
-    "rowHeightMultiplication": 5,
+    "rowHeightMultiplication": 1,
     "totalWidth": 1120
   },
   "name": "a/button/medium/tertiary",
